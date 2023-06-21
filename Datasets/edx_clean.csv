@@ -1,0 +1,975 @@
+title,n_enrolled,Level,subject,language,weeks_duration,price,on_demand,categ_price,comisiones,costos,sales
+How to Learn Online,124980,Introductory,Education & Teacher Training,English,1-4,49,True,0-50,4.9,612402.0,6124020
+Programming for Everybody (Getting Started with Python),293864,Introductory,Computer Science,English,4-8,49,True,0-50,4.9,1439933.6,14399336
+CS50's Introduction to Computer Science,2442271,Introductory,Computer Science,English,8-12,90,True,50-100,9.0,21980439.0,219804390
+The Analytics Edge,129555,Intermediate,Data Analysis & Statistics,English,>12,199,False,>150,19.900000000000002,2578144.5000000005,25781445
+Marketing Analytics: Marketing Measurement Strategy,81140,Introductory,Computer Science,English,1-4,249,True,>150,24.900000000000002,2020386.0000000002,20203860
+Introduction to Project Management,301793,Introductory,Business & Management,English,4-8,199,True,>150,19.900000000000002,6005680.7,60056807
+Leading High-Performing Teams,32847,Intermediate,Communication,English,8-12,5,True,0-50,0.5,16423.5,164235
+The Foundations of Happiness at Work,67073,Introductory,Business & Management,English,1-4,199,True,>150,19.900000000000002,1334752.7000000002,13347527
+"Managing Study, Stress and Mental Health at University",23061,Introductory,Health & Safety,English,1-4,49,True,0-50,4.9,112998.90000000001,1129989
+Six Sigma: Define and Measure,92411,Introductory,Business & Management,English,4-8,99,True,50-100,9.9,914868.9,9148689
+Fat Chance: Probability from the Ground Up,66835,Introductory,Math,English,4-8,49,True,0-50,4.9,327491.5,3274915
+Chasing your Dream: How to End Procrastination and Get a Job You Love,44711,Introductory,Communication,English,4-8,49,True,0-50,4.9,219083.90000000002,2190839
+Bitcoin and Cryptocurrencies,83398,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,825640.2000000001,8256402
+English Grammar and Style,24130,Introductory,Humanities,English,4-8,99,False,50-100,9.9,238887.0,2388870
+Ethics in Action,6366,Intermediate,Ethics,English,8-12,49,True,0-50,4.9,31193.4,311934
+Introduction to FinTech,72767,Introductory,Economics & Finance,English,4-8,199,True,>150,19.900000000000002,1448063.3,14480633
+Data Science: R Basics,528782,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,2591031.8000000003,25910318
+Python Basics for Data Science,228809,Introductory,Data Analysis & Statistics,English,4-8,39,True,0-50,3.9000000000000004,892355.1000000001,8923551
+The Science of Beer,39085,Introductory,Food & Nutrition,English,4-8,49,True,0-50,4.9,191516.5,1915165
+Strategic Social Media Marketing,103640,Advanced,Business & Management,English,4-8,399,False,>150,39.900000000000006,4135236.0000000005,41352360
+CS50's Introduction to Artificial Intelligence with Python,258006,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,5134319.4,51343194
+CS50's Introduction to Game Development,346748,Intermediate,Computer Science,English,8-12,149,True,100-150,14.9,5166545.2,51665452
+Rhetoric: The Art of Persuasive Writing and Public Speaking,320225,Introductory,Humanities,English,4-8,99,True,50-100,9.9,3170227.5,31702275
+CS50's Web Programming with Python and JavaScript,698950,Intermediate,Computer Science,English,8-12,90,True,50-100,9.0,6290550.0,62905500
+Contract Law: From Trust to Promise to Contract,414181,Intermediate,Business & Management,English,4-8,125,True,100-150,12.5,5177262.5,51772625
+"Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron",380167,Introductory,Biology & Life Sciences,English,4-8,99,True,50-100,9.9,3763653.3000000003,37636533
+Justice,392588,Introductory,Humanities,English,8-12,99,True,50-100,9.9,3886621.2,38866212
+Data Science: Machine Learning,276209,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,1353424.1,13534241
+Child Protection: Children's Rights in Theory and Practice,212453,Introductory,Social Sciences,English,>12,99,True,50-100,9.9,2103284.7,21032847
+IELTS Academic Test Preparation,1103777,Introductory,Communication,English,4-8,99,True,50-100,9.9,10927392.3,109273923
+The Architectural Imagination,406181,Introductory,Architecture,English,8-12,99,True,50-100,9.9,4021191.9000000004,40211919
+TOEFL® Test Preparation: The Insider’s Guide,1022489,Introductory,Communication,English,4-8,49,True,0-50,4.9,5010196.100000001,50101961
+Principles of Biochemistry,257600,Intermediate,Medicine,English,>12,199,True,>150,19.900000000000002,5126240.000000001,51262400
+Using Python for Research,262183,Intermediate,Computer Science,English,8-12,99,True,50-100,9.9,2595611.7,25956117
+Hinduism Through Its Scriptures,140782,Introductory,Humanities,English,1-4,99,True,50-100,9.9,1393741.8,13937418
+Basic Spanish 1: Getting Started,400169,Introductory,Communication,English,4-8,40,True,0-50,4.0,1600676.0,16006760
+The Health Effects of Climate Change,110024,Introductory,Environmental Studies,English,4-8,99,True,50-100,9.9,1089237.6,10892376
+Inglés básico: conversacional y networking,79671,Introductory,Business & Management,Español,1-4,49,True,0-50,4.9,390387.9,3903879
+Statistics and R,314586,Intermediate,Data Analysis & Statistics,English,1-4,249,True,>150,24.900000000000002,7833191.4,78331914
+Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry),145011,Introductory,Chemistry,English,>12,199,True,>150,19.900000000000002,2885718.9000000004,28857189
+Pyramids of Giza: Ancient Egyptian Art and Archaeology,123870,Introductory,Art & Culture,English,4-8,99,True,50-100,9.9,1226313.0,12263130
+"PredictionX: Omens, Oracles & Prophecies",91566,Introductory,Social Sciences,English,1-4,25,True,0-50,2.5,228915.0,2289150
+Excel: Fundamentos y herramientas,284279,Introductory,Computer Science,Español,4-8,50,True,0-50,5.0,1421395.0,14213950
+Lessons from Ebola: Preventing the Next Pandemic,91983,Introductory,Social Sciences,English,1-4,49,True,0-50,4.9,450716.7,4507167
+Improving Global Health: Focusing on Quality and Safety,127353,Intermediate,Social Sciences,English,8-12,99,True,50-100,9.9,1260794.7,12607947
+CS50 for Lawyers,87336,Introductory,Computer Science,English,8-12,99,True,50-100,9.9,864626.4,8646264
+Data Science: Visualization,171258,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,839164.2000000001,8391642
+Christianity Through Its Scriptures,125051,Introductory,Humanities,English,1-4,99,True,50-100,9.9,1238004.9000000001,12380049
+The Science of Happiness,475614,Introductory,Social Sciences,English,8-12,169,True,>150,16.900000000000002,8037876.600000001,80378766
+Leaders of Learning,231131,Introductory,Communication,English,8-12,99,True,50-100,9.9,2288196.9,22881969
+Exercising Leadership: Foundational Principles,57814,Introductory,Business & Management,English,1-4,99,True,50-100,9.9,572358.6,5723586
+Data Science: Probability,135859,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,665709.1000000001,6657091
+Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,117410,Intermediate,Education & Teacher Training,English,8-12,70,True,50-100,7.0,821870.0,8218700
+"Prescription Drug Regulation, Cost, and Access: Current Controversies in Context",80082,Introductory,Medicine,English,4-8,99,True,50-100,9.9,792811.8,7928118
+Introduction to Family Engagement in Education,105146,Introductory,Education & Teacher Training,English,4-8,70,True,50-100,7.0,736022.0,7360220
+Italian Language and Culture: Beginner (2019-2020),182462,Introductory,Language,Otros,8-12,49,True,0-50,4.9,894063.8,8940638
+Steps in Japanese for Beginners1 Part1,53630,Introductory,Language,English,4-8,49,True,0-50,4.9,262787.0,2627870
+How to Write an Essay,306787,Introductory,Humanities,English,4-8,49,True,0-50,4.9,1503256.3,15032563
+Energy Within Environmental Constraints,95324,Introductory,Environmental Studies,English,8-12,99,True,50-100,9.9,943707.6,9437076
+Introduction to Probability,97291,Intermediate,Data Analysis & Statistics,English,8-12,99,True,50-100,9.9,963180.9,9631809
+AnatomyX: Musculoskeletal Cases,102075,Intermediate,Medicine,English,4-8,99,True,50-100,9.9,1010542.5,10105425
+Data Science: Inference and Modeling,88256,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,432454.4,4324544
+Strengthening Community Health Worker Programs,58626,Introductory,Health & Safety,English,4-8,79,True,50-100,7.9,463145.4,4631454
+Buddhism Through Its Scriptures,182295,Introductory,Humanities,English,1-4,99,True,50-100,9.9,1804720.5,18047205
+Introduction to Linux,642088,Introductory,Computer Science,English,>12,199,True,>150,19.900000000000002,12777551.200000001,127775512
+"Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics",81221,Introductory,Medicine,English,8-12,99,True,50-100,9.9,804087.9,8040879
+Shakespeare's Life and Work,48938,Introductory,Humanities,English,1-4,49,True,0-50,4.9,239796.2,2397962
+Marketing Digital: Content & Community Manager,112623,Introductory,Communication,Español,4-8,49,True,0-50,4.9,551852.7000000001,5518527
+Accounting and Finance,88243,Intermediate,Business & Management,English,8-12,150,True,100-150,15.0,1323645.0,13236450
+Computing in Python I: Fundamentals and Procedural Programming,141966,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,1405463.4000000001,14054634
+"Nutrition, Exercise and Sports",51679,Intermediate,Food & Nutrition,English,4-8,49,True,0-50,4.9,253227.1,2532271
+Becoming an Entrepreneur,104760,Introductory,Business & Management,English,4-8,69,True,50-100,6.9,722844.0,7228440
+"Religion, Conflict and Peace",74060,Introductory,Humanities,English,4-8,49,True,0-50,4.9,362894.0,3628940
+"Tangible Things: Discovering History Through Artworks, Artifacts, Scientific Specimens, and the Stuff Around You",61139,Introductory,Humanities,English,8-12,49,True,0-50,4.9,299581.10000000003,2995811
+Academic and Business Writing,322701,Introductory,Communication,English,4-8,49,True,0-50,4.9,1581234.9000000001,15812349
+Data Science: Capstone,62803,Introductory,Data Analysis & Statistics,English,1-4,99,True,50-100,9.9,621749.7000000001,6217497
+Basics of Computing and Programming,37045,Introductory,Computer Science,English,8-12,200,True,>150,20.0,740900.0,7409000
+"Fundamentals of Neuroscience, Part 2: Neurons and Networks",84874,Introductory,Biology & Life Sciences,English,4-8,99,True,50-100,9.9,840252.6,8402526
+Successful Negotiation: Essential Strategies and Skills,31369,Introductory,Business & Management,English,4-8,49,True,0-50,4.9,153708.1,1537081
+Data Science: Linear Regression,75310,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,369019.0,3690190
+HTML5 and CSS Fundamentals,335895,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,6684310.500000001,66843105
+Data Science: Productivity Tools,66683,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,326746.7,3267467
+Introduction to Corporate Finance,98093,Introductory,Business & Management,English,1-4,225,True,>150,22.5,2207092.5,22070925
+Computer Science 101,39540,Introductory,Computer Science,English,4-8,149,True,100-150,14.9,589146.0,5891460
+Data Science: Wrangling,64584,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,316461.60000000003,3164616
+A Hands-on Introduction to Engineering Simulations,187138,Intermediate,Engineering,English,4-8,199,True,>150,19.900000000000002,3724046.2,37240462
+AI for Everyone: Master the Basics,49340,Introductory,Computer Science,English,1-4,49,True,0-50,4.9,241766.00000000003,2417660
+The Psychology of Criminal Justice,110086,Introductory,Humanities,English,4-8,99,True,50-100,9.9,1089851.4000000001,10898514
+Machine Learning with Python: A Practical Introduction,80161,Introductory,Data Analysis & Statistics,English,4-8,39,True,0-50,3.9000000000000004,312627.9,3126279
+Analyzing Data with Python,94079,Introductory,Data Analysis & Statistics,English,4-8,39,True,0-50,3.9000000000000004,366908.10000000003,3669081
+Excel: gestión de datos,111785,Intermediate,Computer Science,Español,4-8,75,True,50-100,7.5,838387.5,8383875
+Probability - The Science of Uncertainty and Data,205615,Advanced,Data Analysis & Statistics,English,>12,300,False,>150,30.0,6168450.0,61684500
+"Fundamentals of Neuroscience, Part 3: The Brain",85034,Introductory,Biology & Life Sciences,English,4-8,99,True,50-100,9.9,841836.6,8418366
+Sikhism Through Its Scriptures,44125,Introductory,Humanities,English,1-4,99,True,50-100,9.9,436837.5,4368375
+Upper-Intermediate English: Business and Modern Life,77991,Intermediate,Language,English,1-4,50,True,0-50,5.0,389955.0,3899550
+Religious Literacy: Traditions and Scriptures,96972,Introductory,Humanities,English,1-4,99,True,50-100,9.9,960022.8,9600228
+Programación para todos (empezando con Python),81004,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,396919.60000000003,3969196
+Analyzing and Visualizing Data with Power BI,28879,Introductory,Data Analysis & Statistics,English,1-4,99,True,50-100,9.9,285902.10000000003,2859021
+High-Dimensional Data Analysis,78443,Advanced,Data Analysis & Statistics,English,1-4,149,True,100-150,14.9,1168800.7,11688007
+Introduction To Music Theory,67029,Introductory,Humanities,English,4-8,49,True,0-50,4.9,328442.10000000003,3284421
+Human Anatomy,126850,Introductory,Medicine,English,4-8,139,True,100-150,13.9,1763215.0,17632150
+"CitiesX: The Past, Present and Future of Urban Life",76874,Introductory,Social Sciences,English,8-12,99,True,50-100,9.9,761052.6,7610526
+The Path to Happiness: What Chinese Philosophy Teaches us about the Good Life,24208,Introductory,Philosophy & Ethics,English,>12,99,True,50-100,9.9,239659.2,2396592
+Entrepreneurship 101: Who is your customer?,41838,Introductory,Business & Management,English,8-12,49,True,0-50,4.9,205006.2,2050062
+"U.S. Public Policy: Social, Economic, and Foreign Policies",44045,Introductory,Social Sciences,English,1-4,49,True,0-50,4.9,215820.50000000003,2158205
+Machine Learning with Python: from Linear Models to Deep Learning,85561,Advanced,Computer Science,English,>12,300,False,>150,30.0,2566830.0,25668300
+Introduction to Data Science,43766,Introductory,Data Analysis & Statistics,English,4-8,39,True,0-50,3.9000000000000004,170687.40000000002,1706874
+Circuits and Electronics 1: Basic Circuit Analysis,52639,Introductory,Electronics,English,4-8,169,True,>150,16.900000000000002,889599.1000000001,8895991
+Introduction to Investments,91788,Intermediate,Business & Management,English,4-8,50,True,0-50,5.0,458940.0,4589400
+Improving Your Business Through a Culture of Health,54136,Introductory,Business & Management,English,8-12,99,True,50-100,9.9,535946.4,5359464
+Introduction to Linear Models and Matrix Algebra,92004,Intermediate,Math,English,1-4,149,True,100-150,14.9,1370859.6,13708596
+DO Your Venture: Entrepreneurship For Everyone,61989,Introductory,Business & Management,English,4-8,150,True,100-150,15.0,929835.0,9298350
+El valor de la creatividad y la innovación: La Economía Naranja,23728,Introductory,Art & Culture,Español,4-8,25,True,0-50,2.5,59320.0,593200
+Humanitarian Response to Conflict and Disaster,119891,Introductory,Health & Safety,English,4-8,99,True,50-100,9.9,1186920.9000000001,11869209
+"Women Making History: Ten Objects, Many Stories",38939,Introductory,History,English,4-8,99,True,50-100,9.9,385496.10000000003,3854961
+Masterpieces of World Literature,88789,Introductory,Literature,English,8-12,149,True,100-150,14.9,1322956.1,13229561
+SQL for Data Science,39184,Introductory,Data Analysis & Statistics,English,1-4,39,True,0-50,3.9000000000000004,152817.6,1528176
+El cerebro y las emociones en el lenguaje,41279,Introductory,Communication,Español,4-8,49,True,0-50,4.9,202267.1,2022671
+Science & Cooking: From Haute Cuisine to Soft Matter Science (physics),62673,Introductory,Physics,English,>12,169,True,>150,16.900000000000002,1059173.7000000002,10591737
+Python: aprender a programar,21613,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,105903.70000000001,1059037
+Marketing Analytics: Competitive Analysis and Market Segmentation,70682,Intermediate,Computer Science,English,1-4,249,True,>150,24.900000000000002,1759981.8,17599818
+MalariaX: Defeating Malaria from the Genes to the Globe,37598,Intermediate,Biology & Life Sciences,English,4-8,49,True,0-50,4.9,184230.2,1842302
+Entrepreneurship in Emerging Economies,113602,Introductory,Business & Management,English,4-8,125,True,100-150,12.5,1420025.0,14200250
+JavaScript Introduction,160112,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,3186228.8000000003,31862288
+People Management,113592,Introductory,Business & Management,English,4-8,150,True,100-150,15.0,1703880.0,17038800
+Using Email for Networking in English,57208,Introductory,Language,English,1-4,149,True,100-150,14.9,852399.2000000001,8523992
+Databases: Relational Databases and SQL,20502,Introductory,Computer Science,English,1-4,50,True,0-50,5.0,102510.0,1025100
+C Programming: Getting Started,104108,Introductory,Computer Science,English,4-8,49,True,0-50,4.9,510129.2,5101292
+Supply Chain Analytics,145049,Introductory,Business & Management,English,>12,199,False,>150,19.900000000000002,2886475.1,28864751
+Programming for the Web with JavaScript,91406,Intermediate,Computer Science,English,1-4,149,True,100-150,14.9,1361949.4000000001,13619494
+Introduction to Digital Humanities,37501,Introductory,Humanities,English,4-8,99,True,50-100,9.9,371259.9,3712599
+Upper-Intermediate English: Business and Industry,103704,Intermediate,Language,English,1-4,50,True,0-50,5.0,518520.0,5185200
+EmSAT English Preparation - Level 1,29101,Introductory,Language,English,4-8,49,True,0-50,4.9,142594.90000000002,1425949
+Python for Data Science,266978,Advanced,Data Analysis & Statistics,English,8-12,350,True,>150,35.0,9344230.0,93442300
+Empathy and Emotional Intelligence at Work,45867,Introductory,Business & Management,English,1-4,199,True,>150,19.900000000000002,912753.3,9127533
+Design Thinking and Creativity for Innovation,47549,Intermediate,Business & Management,English,8-12,5,True,0-50,0.5,23774.5,237745
+China and Communism,69104,Introductory,History,English,>12,139,True,100-150,13.9,960545.6,9605456
+Mandarin Chinese Level 1,56040,Introductory,Language,English,4-8,149,True,100-150,14.9,834996.0,8349960
+Introduction to Biology - The Secret of Life,147512,Introductory,Biology & Life Sciences,English,>12,150,False,100-150,15.0,2212680.0,22126800
+Photoshop: una herramienta para presentaciones innovadoras,22969,Introductory,Art & Culture,Español,4-8,19,True,0-50,1.9000000000000001,43641.100000000006,436411
+Causal Diagrams: Draw Your Assumptions Before Your Conclusions,50949,Introductory,Data Analysis & Statistics,English,8-12,99,True,50-100,9.9,504395.10000000003,5043951
+生活英语听说 | Conversational English Skills,301585,Introductory,Communication,English,8-12,49,True,0-50,4.9,1477766.5,14777665
+Shakespeare’s Othello: The Moor,31868,Introductory,Humanities,English,1-4,49,True,0-50,4.9,156153.2,1561532
+Basic Spanish 2: One Step Further,67687,Introductory,Language,English,1-4,50,True,0-50,5.0,338435.0,3384350
+Financial Market Analysis,37452,Intermediate,Economics & Finance,English,4-8,25,True,0-50,2.5,93630.0,936300
+CS50's Computer Science for Business Professionals,73208,Introductory,Computer Science,English,4-8,90,True,50-100,9.0,658872.0,6588720
+Gobierno Digital,18883,Introductory,Social Sciences,Español,4-8,25,True,0-50,2.5,47207.5,472075
+Upper-Intermediate English: Business and Globalization,58532,Intermediate,Language,English,1-4,50,True,0-50,5.0,292660.0,2926600
+The Opioid Crisis in America,54805,Introductory,Medicine,English,8-12,99,True,50-100,9.9,542569.5,5425695
+Gestión de Proyectos de Desarrollo,306286,Introductory,Business & Management,Español,8-12,49,True,0-50,4.9,1500801.4000000001,15008014
+Statistical Learning,27968,Introductory,Data Analysis & Statistics,English,8-12,50,True,0-50,5.0,139840.0,1398400
+Introduction to Social Psychology,79365,Introductory,Humanities,English,4-8,99,True,50-100,9.9,785713.5,7857135
+Artificial Intelligence (AI),265104,Advanced,Computer Science,English,8-12,249,False,>150,24.900000000000002,6601089.600000001,66010896
+American Government: Constitutional Foundations,35504,Introductory,Social Sciences,English,1-4,49,True,0-50,4.9,173969.6,1739696
+Introducción a la inversión bursátil,64261,Introductory,Economics & Finance,Español,1-4,50,True,0-50,5.0,321305.0,3213050
+Japanese Books: From Manuscript to Print,17581,Introductory,Art & Culture,English,8-12,100,True,50-100,10.0,175810.0,1758100
+Foundations of Modern Finance  I,24108,Advanced,Economics & Finance,English,8-12,450,False,>150,45.0,1084860.0,10848600
+Operations Management,126093,Intermediate,Business & Management,English,4-8,150,True,100-150,15.0,1891395.0,18913950
+Marketing Management,80010,Intermediate,Business & Management,English,8-12,150,True,100-150,15.0,1200150.0,12001500
+Marketing enfocado en la estrategia de servicios,24618,Introductory,Business & Management,Español,4-8,119,True,100-150,11.9,292954.2,2929542
+Introduction to Marketing,169126,Introductory,Business & Management,English,4-8,150,True,100-150,15.0,2536890.0,25368900
+Programming Basics,215059,Introductory,Computer Science,English,8-12,149,True,100-150,14.9,3204379.1,32043791
+Probability and Statistics in Data Science using Python,106286,Advanced,Data Analysis & Statistics,English,8-12,350,True,>150,35.0,3720010.0,37200100
+HTML5 Coding Essentials and Best Practices,241287,Intermediate,Computer Science,English,4-8,199,True,>150,19.900000000000002,4801611.300000001,48016113
+First Nights - Beethoven's 9th Symphony and the 19th Century Orchestra,37426,Introductory,Humanities,English,1-4,49,True,0-50,4.9,183387.40000000002,1833874
+Cell Biology: Mitochondria,64142,Introductory,Biology & Life Sciences,English,1-4,99,True,50-100,9.9,635005.8,6350058
+"Algorithms: Design and Analysis, Part 1",20163,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,300428.7,3004287
+Introducción al Office 365,16470,Introductory,Computer Science,Español,4-8,75,True,50-100,7.5,123525.0,1235250
+Creative Thinking: Techniques and Tools for Success,54787,Introductory,Humanities,English,4-8,49,True,0-50,4.9,268456.30000000005,2684563
+Upper-Intermediate English: Business and Technology,47451,Intermediate,Language,English,1-4,50,True,0-50,5.0,237255.0,2372550
+Shakespeare's Hamlet: The Ghost,38331,Introductory,Humanities,English,1-4,49,True,0-50,4.9,187821.90000000002,1878219
+FlashDiet: Aprende a comer sano,48105,Introductory,Food & Nutrition,Español,4-8,50,True,0-50,5.0,240525.0,2405250
+CS50's Understanding Technology,50030,Introductory,Computer Science,English,4-8,90,True,50-100,9.0,450270.0,4502700
+Introduction to Aerospace Structures and Materials,37126,Introductory,Engineering,English,4-8,50,True,0-50,5.0,185630.0,1856300
+Visualizing Data with Python,42101,Intermediate,Data Analysis & Statistics,English,4-8,39,True,0-50,3.9000000000000004,164193.90000000002,1641939
+Success: Practical Thinking Skills,24414,Introductory,Philosophy & Ethics,English,1-4,50,True,0-50,5.0,122070.0,1220700
+English for Doing Business in Asia – Speaking,68422,Introductory,Humanities,English,4-8,60,True,50-100,6.0,410532.0,4105320
+Nutrition and Health: Macronutrients and Overnutrition,208582,Introductory,Biology & Life Sciences,English,8-12,99,True,50-100,9.9,2064961.8,20649618
+"Contemporary China: The People's Republic, Taiwan, and Hong Kong",66771,Introductory,History,English,>12,139,True,100-150,13.9,928116.9,9281169
+Introduction to Clinical Psychology,57234,Introductory,Humanities,English,4-8,99,True,50-100,9.9,566616.6,5666166
+Modern Masterpieces of World Literature,48049,Introductory,Literature,English,4-8,99,True,50-100,9.9,475685.10000000003,4756851
+"Citizen Politics in America: Public Opinion, Elections, Interest Groups, and the Media",24259,Introductory,Social Sciences,English,1-4,49,True,0-50,4.9,118869.1,1188691
+Applied Scrum for Agile Project Management,55293,Advanced,Engineering,English,1-4,199,True,>150,19.900000000000002,1100330.7000000002,11003307
+Corporate Finance,62798,Intermediate,Business & Management,English,4-8,150,True,100-150,15.0,941970.0,9419700
+Judaism Through Its Scriptures,50540,Introductory,Humanities,English,1-4,99,True,50-100,9.9,500346.0,5003460
+Excel avanzado: importación y análisis de datos,47184,Advanced,Data Analysis & Statistics,Español,4-8,75,True,50-100,7.5,353880.0,3538800
+CSS Basics,95163,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,1893743.7000000002,18937437
+Unlocking Information Security: Part I,19905,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,296584.5,2965845
+Becoming an Effective Leader,55937,Intermediate,Communication,English,8-12,99,True,50-100,9.9,553776.3,5537763
+Digital Branding and Engagement,122977,Intermediate,Communication,English,1-4,99,True,50-100,9.9,1217472.3,12174723
+Introduction to Cybersecurity,73021,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,1453117.9000000001,14531179
+General Academic English|生活英语进阶,17526,Introductory,Language,English,4-8,49,True,0-50,4.9,85877.40000000001,858774
+Gestión de personas: Recursos Humanos,19687,Introductory,Business & Management,Español,4-8,119,True,100-150,11.9,234275.30000000002,2342753
+From Poverty to Prosperity: Understanding Economic Development,91062,Intermediate,Social Sciences,English,4-8,149,True,100-150,14.9,1356823.8,13568238
+Medical Terminology,31354,Introductory,Biology & Life Sciences,English,4-8,79,True,50-100,7.9,247696.6,2476966
+Ancient Masterpieces of World Literature,48899,Introductory,Literature,English,4-8,99,True,50-100,9.9,484100.10000000003,4841001
+Shakespeare's The Merchant of Venice: Shylock,23283,Introductory,Humanities,English,1-4,49,True,0-50,4.9,114086.70000000001,1140867
+Gestión del estrés y Mindfulness,15965,Introductory,Health & Safety,Español,1-4,49,True,0-50,4.9,78228.5,782285
+Behavioural Economics in Action,66764,Introductory,Business & Management,English,4-8,139,True,100-150,13.9,928019.6,9280196
+Finance for Everyone: Smart Tools for Decision-Making,45029,Introductory,Business & Management,English,4-8,49,True,0-50,4.9,220642.1,2206421
+Creating Innovative Business Models,12227,Introductory,Business & Management,English,1-4,149,True,100-150,14.9,182182.30000000002,1821823
+u.lab: Leading From the Emerging Future,79424,Introductory,Business & Management,English,>12,99,True,50-100,9.9,786297.6,7862976
+Electric Cars: Introduction,56171,Intermediate,Engineering,English,1-4,50,True,0-50,5.0,280855.0,2808550
+Inteligencia Artificial para todos: Domina los fundamentos,11764,Introductory,Computer Science,Español,1-4,49,True,0-50,4.9,57643.600000000006,576436
+Marketing Analytics,55228,Advanced,Business & Management,English,8-12,249,False,>150,24.900000000000002,1375177.2000000002,13751772
+Introducción a la Regulación Emocional basada en Mindfulness,20634,Introductory,Health & Safety,Español,1-4,49,True,0-50,4.9,101106.6,1011066
+Design Thinking Fundamentals,56446,Intermediate,Business & Management,English,4-8,299,True,>150,29.900000000000002,1687735.4000000001,16877354
+Basic Spanish 3: Getting there,17569,Introductory,Language,English,1-4,50,True,0-50,5.0,87845.0,878450
+Mi propia huerta orgánica,11346,Introductory,Biology & Life Sciences,Español,1-4,29,True,0-50,2.9000000000000004,32903.4,329034
+Sustainability in Architecture: An Interdisciplinary Introduction,31352,Intermediate,Architecture,English,1-4,50,True,0-50,5.0,156760.0,1567600
+Gestión de riesgos en proyectos de desarrollo,47676,Intermediate,Business & Management,Español,8-12,25,True,0-50,2.5,119190.0,1191900
+Python Data Structures,36369,Introductory,Computer Science,English,4-8,49,True,0-50,4.9,178208.1,1782081
+The Science and Business of Biotechnology,17039,Intermediate,Business & Management,English,>12,49,True,0-50,4.9,83491.1,834911
+Finance Essentials,63666,Introductory,Business & Management,English,4-8,79,True,50-100,7.9,502961.4,5029614
+Introduction to the Internet of Things (IoT),89421,Introductory,Computer Science,English,4-8,149,True,100-150,14.9,1332372.9000000001,13323729
+'Talk to me': Improving mental health and suicide prevention in young adults,11481,Introductory,Health & Safety,English,4-8,139,True,100-150,13.9,159585.9,1595859
+Disaster Medicine Training,10937,Introductory,Medicine,English,4-8,50,True,0-50,5.0,54685.0,546850
+Nutrition and Health: Human Microbiome,44079,Introductory,Health & Safety,English,4-8,49,True,0-50,4.9,215987.1,2159871
+Customer Relationship Management,53085,Intermediate,Business & Management,English,4-8,50,True,0-50,5.0,265425.0,2654250
+Islam Through Its Scriptures,65430,Introductory,Humanities,English,1-4,99,True,50-100,9.9,647757.0,6477570
+Mechatronics Revolution: Fundamentals and Core Concepts,11619,Introductory,Engineering,English,>12,149,True,100-150,14.9,173123.1,1731231
+Accounting for Decision-Making,57710,Intermediate,Business & Management,English,4-8,150,True,100-150,15.0,865650.0,8656500
+C Programming: Language Foundations,46400,Introductory,Computer Science,English,4-8,49,True,0-50,4.9,227360.00000000003,2273600
+Big Data sin misterios,65564,Intermediate,Data Analysis & Statistics,Español,8-12,25,True,0-50,2.5,163910.0,1639100
+Becoming a Successful Leader (Inclusive Leadership Training),215705,Introductory,Communication,English,1-4,49,True,0-50,4.9,1056954.5,10569545
+"English for Journalists, Part 1",50847,Intermediate,Communication,English,4-8,139,True,100-150,13.9,706773.3,7067733
+Introduction to Networking,16134,Introductory,Computer Science,English,4-8,150,True,100-150,15.0,242010.0,2420100
+Accounting Essentials,58463,Introductory,Business & Management,English,4-8,79,True,50-100,7.9,461857.7,4618577
+Introduction to Java Programming: Starting to code in Java,325554,Introductory,Computer Science,English,4-8,149,True,100-150,14.9,4850754.600000001,48507546
+European Paintings: From Leonardo to Rembrandt to Goya,60734,Introductory,Humanities,English,4-8,99,True,50-100,9.9,601266.6,6012666
+Java Programming Fundamentals,12042,Intermediate,Engineering,English,4-8,49,True,0-50,4.9,59005.8,590058
+"Hollywood: History, Industry, Art",50033,Introductory,Communication,English,1-4,169,True,>150,16.900000000000002,845557.7000000001,8455577
+Data Science Tools,15627,Introductory,Data Analysis & Statistics,English,4-8,39,True,0-50,3.9000000000000004,60945.3,609453
+Statistical Thinking for Data Science and Analytics,198861,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,1968723.9000000001,19687239
+Philosophy and Critical Thinking,97175,Introductory,Humanities,English,4-8,99,True,50-100,9.9,962032.5,9620325
+International Law,91868,Advanced,Law,English,8-12,150,True,100-150,15.0,1378020.0,13780200
+Tourism and Travel Management,38503,Introductory,Business & Management,English,4-8,5,True,0-50,0.5,19251.5,192515
+Project Management Life Cycle,120019,Intermediate,Business & Management,English,8-12,150,True,100-150,15.0,1800285.0,18002850
+Solar Energy,125069,Introductory,Engineering,English,4-8,50,True,0-50,5.0,625345.0,6253450
+Public Speaking,10129,Introductory,Communication,English,1-4,199,True,>150,19.900000000000002,201567.10000000003,2015671
+Japanese Pronunciation for Communication,62757,Introductory,Communication,Otros,4-8,99,True,50-100,9.9,621294.3,6212943
+Mindfulness and Resilience to Stress at Work,33414,Introductory,Business & Management,English,1-4,199,True,>150,19.900000000000002,664938.6000000001,6649386
+Framing Your Communication to Inspire and Convince,49351,Intermediate,Business & Management,English,4-8,125,True,100-150,12.5,616887.5,6168875
+Business Foundations,55154,Introductory,Business & Management,English,4-8,150,True,100-150,15.0,827310.0,8273100
+The Chemistry of Life,78704,Introductory,Biology & Life Sciences,English,>12,49,True,0-50,4.9,385649.60000000003,3856496
+Nutrition and Health: Micronutrients and Malnutrition,78266,Intermediate,Biology & Life Sciences,English,4-8,99,True,50-100,9.9,774833.4,7748334
+Digital Design,12339,Introductory,Design,English,4-8,50,True,0-50,5.0,61695.0,616950
+Machine Learning for Data Science and Analytics,140419,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,1390148.1,13901481
+The Science of Everyday Thinking,318399,Introductory,Business & Management,English,8-12,99,True,50-100,9.9,3152150.1,31521501
+Gestion de projets de développement,41663,Intermediate,Business & Management,Otros,8-12,25,True,0-50,2.5,104157.5,1041575
+Product Management Fundamentals,11913,Introductory,Business & Management,English,1-4,199,True,>150,19.900000000000002,237068.7,2370687
+International Human Rights Law,74424,Advanced,Law,English,8-12,150,True,100-150,15.0,1116360.0,11163600
+The Best Start in Life: Early Childhood Development for Sustainable Development,23139,Intermediate,Education & Teacher Training,English,4-8,49,True,0-50,4.9,113381.1,1133811
+Data Science and Machine Learning Capstone Project,21809,Intermediate,Data Analysis & Statistics,English,4-8,99,True,50-100,9.9,215909.1,2159091
+"Data Science for Construction, Architecture and Engineering",11113,Introductory,Data Analysis & Statistics,English,4-8,199,True,>150,19.900000000000002,221148.7,2211487
+"Nutrition, Heart Disease and Diabetes",24986,Intermediate,Food & Nutrition,English,4-8,99,True,50-100,9.9,247361.40000000002,2473614
+Project Management for Development,62099,Intermediate,Business & Management,English,8-12,49,True,0-50,4.9,304285.10000000003,3042851
+Introduction to Cloud Infrastructure Technologies,86923,Introductory,Computer Science,English,>12,169,True,>150,16.900000000000002,1468998.7000000002,14689987
+"Circular Fashion: Design, Science and Value in a Sustainable Clothing Industry",13566,Introductory,Art & Culture,English,4-8,65,True,50-100,6.5,88179.0,881790
+Machine Learning,150855,Advanced,Computer Science,English,8-12,249,False,>150,24.900000000000002,3756289.5000000005,37562895
+Introducción a la gestión de proyectos,98517,Introductory,Business & Management,Español,4-8,50,True,0-50,5.0,492585.0,4925850
+Free Cash Flow Analysis,36085,Introductory,Business & Management,English,4-8,225,True,>150,22.5,811912.5,8119125
+Lean Production,55926,Introductory,Business & Management,English,4-8,99,True,50-100,9.9,553667.4,5536674
+Introduction to Algebra,131197,Introductory,Math,English,1-4,139,True,100-150,13.9,1823638.3,18236383
+"LaTeX for Students, Engineers, and Scientists",11823,Introductory,Engineering,English,4-8,139,True,100-150,13.9,164339.7,1643397
+Leading With Effective Communication (Inclusive Leadership Training),107770,Introductory,Communication,English,1-4,50,True,0-50,5.0,538850.0,5388500
+Anatomy: Musculoskeletal and Integumentary Systems,51969,Introductory,Biology & Life Sciences,English,1-4,49,True,0-50,4.9,254648.1,2546481
+"Inglés empresarial: ventas, gestión y liderazgo",10897,Introductory,Business & Management,English,1-4,49,False,0-50,4.9,53395.3,533953
+Business Strategy from Wharton: Competitive Advantage,26675,Intermediate,Business & Management,English,4-8,199,True,>150,19.900000000000002,530832.5,5308325
+Inteligencia emocional para el liderazgo efectivo y colaboración,14726,Introductory,Social Sciences,Español,1-4,49,True,0-50,4.9,72157.40000000001,721574
+Introducción al desarrollo de aplicaciones web,27757,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,136009.30000000002,1360093
+"Six Sigma: Analyze, Improve, Control",56016,Introductory,Business & Management,English,4-8,99,True,50-100,9.9,554558.4,5545584
+Introducción a la inteligencia emocional,18830,Introductory,Social Sciences,Español,1-4,49,True,0-50,4.9,92267.0,922670
+AP® Microeconomics,53664,Introductory,Economics & Finance,English,8-12,49,True,0-50,4.9,262953.60000000003,2629536
+Engineering Calculus and Differential Equations,21535,Introductory,Math,English,4-8,50,True,0-50,5.0,107675.0,1076750
+Linear Algebra - Foundations to Frontiers,88570,Intermediate,Computer Science,English,>12,49,True,0-50,4.9,433993.00000000006,4339930
+Habilidades de negociación y comunicación efectiva,19614,Introductory,Business & Management,Español,1-4,149,True,100-150,14.9,292248.60000000003,2922486
+Effective Communication for Today's Leader,8862,Intermediate,Business & Management,English,1-4,149,True,100-150,14.9,132043.80000000002,1320438
+Electric Cars: Technology,40972,Intermediate,Engineering,English,1-4,50,True,0-50,5.0,204860.0,2048600
+Site Planning Online,12948,Intermediate,Design,English,8-12,99,True,50-100,9.9,128185.20000000001,1281852
+Macroeconometric Forecasting,69358,Intermediate,Economics & Finance,English,8-12,25,True,0-50,2.5,173395.0,1733950
+Administración pública y fiscal: cómo se gestiona un gobierno,49189,Introductory,Economics & Finance,Español,8-12,25,True,0-50,2.5,122972.5,1229725
+Fundamentals of Red Hat Enterprise Linux,53788,Introductory,Computer Science,English,8-12,99,True,50-100,9.9,532501.2000000001,5325012
+Algorithms,61722,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,919657.8,9196578
+Calculus Applied!,54976,Intermediate,Math,English,8-12,99,True,50-100,9.9,544262.4,5442624
+Precalculus,55576,Intermediate,Math,English,>12,49,True,0-50,4.9,272322.4,2723224
+Fundamentos de anatomía y técnica quirúrgica básica,12133,Introductory,Medicine,Español,1-4,49,False,0-50,4.9,59451.700000000004,594517
+Business Communications,60713,Introductory,Business & Management,English,4-8,150,True,100-150,15.0,910695.0,9106950
+Italian Language and Culture: Intermediate (2019-2020),35058,Intermediate,Language,Otros,8-12,49,True,0-50,4.9,171784.2,1717842
+International Women's Health and Human Rights,9796,Introductory,Social Sciences,English,8-12,50,True,0-50,5.0,48980.0,489800
+Blockchain: Understanding Its Uses and Implications,66769,Introductory,Business & Management,English,>12,199,True,>150,19.900000000000002,1328703.1,13287031
+"A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods",22366,Intermediate,Math,English,4-8,49,True,0-50,4.9,109593.40000000001,1095934
+Blockchain Technology,55376,Intermediate,Computer Science,English,4-8,99,True,50-100,9.9,548222.4,5482224
+Basics of Power BI,8314,Introductory,Data Analysis & Statistics,English,1-4,49,True,0-50,4.9,40738.600000000006,407386
+Preparing to Network in English,34337,Introductory,Language,English,4-8,149,True,100-150,14.9,511621.3,5116213
+Mandarin Chinese Essentials,36665,Introductory,Language,English,4-8,99,True,50-100,9.9,362983.5,3629835
+Human Rights: The Rights of Refugees,84270,Introductory,Humanities,English,1-4,49,True,0-50,4.9,412923.00000000006,4129230
+What do Architects and Urban Planners do?,11046,Introductory,Architecture,English,1-4,49,True,0-50,4.9,54125.4,541254
+"U.S. Political Institutions: Congress, Presidency, Courts, and Bureaucracy",22723,Introductory,Social Sciences,English,1-4,49,True,0-50,4.9,111342.70000000001,1113427
+Negotiation Skills and Effective Communication,8146,Intermediate,Business & Management,English,1-4,149,True,100-150,14.9,121375.40000000001,1213754
+AP® English Literature & Composition – Part 1: Stories,15650,Introductory,Humanities,English,4-8,49,True,0-50,4.9,76685.0,766850
+"Viruses & How to Beat Them: Cells, Immunity, Vaccines",28710,Introductory,Medicine,English,4-8,149,True,100-150,14.9,427779.0,4277790
+Alianzas: un vehículo para lograr el desarrollo sostenible,17554,Introductory,Social Sciences,Español,8-12,25,True,0-50,2.5,43885.0,438850
+Designing and Creating Skirts,13954,Introductory,Design,English,4-8,99,True,50-100,9.9,138144.6,1381446
+Cómo Aprender Online,7958,Introductory,Education & Teacher Training,Español,1-4,49,True,0-50,4.9,38994.200000000004,389942
+Computing in Python II: Control Structures,31511,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,311958.9,3119589
+Facebook Ads: Cómo utilizar el poder de la publicidad en Facebook,29614,Introductory,Communication,Español,4-8,49,True,0-50,4.9,145108.6,1451086
+Machine Learning Fundamentals,82008,Advanced,Data Analysis & Statistics,English,8-12,350,True,>150,35.0,2870280.0,28702800
+Pre-University Calculus,103224,Introductory,Math,English,4-8,50,True,0-50,5.0,516120.0,5161200
+Tsinghua Chinese: Start Talking with 1.3 Billion People,58834,Introductory,Language,English,4-8,49,True,0-50,4.9,288286.60000000003,2882866
+Deep Learning with Python and PyTorch,36195,Intermediate,Data Analysis & Statistics,English,4-8,99,True,50-100,9.9,358330.5,3583305
+Diseña presentaciones eficaces con Powerpoint,36663,Introductory,Computer Science,Español,1-4,50,True,0-50,5.0,183315.0,1833150
+World of Wine: From Grape to Glass,81839,Introductory,Science,English,4-8,199,True,>150,19.900000000000002,1628596.1,16285961
+Sustainable Cities,16619,Intermediate,Environmental Studies,English,8-12,49,True,0-50,4.9,81433.1,814331
+Introduction to Developmental Psychology,38060,Introductory,Humanities,English,4-8,99,True,50-100,9.9,376794.0,3767940
+Creativity & Entrepreneurship,69413,Introductory,Business & Management,English,1-4,49,True,0-50,4.9,340123.7,3401237
+College Algebra and Problem Solving,103010,Introductory,Math,English,>12,49,True,0-50,4.9,504749.00000000006,5047490
+Academic writing for clarity and meaning,16220,Introductory,Education & Teacher Training,English,1-4,49,True,0-50,4.9,79478.0,794780
+Financial Development and Financial Inclusion,13853,Intermediate,Economics & Finance,English,4-8,25,True,0-50,2.5,34632.5,346325
+Global Public Health,17273,Intermediate,Health & Safety,English,8-12,49,True,0-50,4.9,84637.70000000001,846377
+Embedded Systems - Shape The World: Microcontroller Input/Output,69182,Intermediate,Computer Science,English,4-8,49,True,0-50,4.9,338991.80000000005,3389918
+Introduction to Animal Behaviour,42135,Introductory,Biology & Life Sciences,English,4-8,49,True,0-50,4.9,206461.50000000003,2064615
+Circular Economy: An Introduction,50240,Introductory,Business & Management,English,4-8,50,True,0-50,5.0,251200.0,2512000
+Public Financial Management,23288,Intermediate,Economics & Finance,English,4-8,25,True,0-50,2.5,58220.0,582200
+Anatomy: Human Neuroanatomy,49319,Introductory,Biology & Life Sciences,English,4-8,49,True,0-50,4.9,241663.1,2416631
+Android: Introducción a la Programación,85786,Introductory,Computer Science,Español,8-12,50,True,0-50,5.0,428930.0,4289300
+The Ancient Greek Hero,51744,Introductory,Humanities,English,>12,99,False,50-100,9.9,512265.60000000003,5122656
+Agile Leadership Principles and Practices,31838,Advanced,Engineering,English,1-4,199,True,>150,19.900000000000002,633576.2000000001,6335762
+How to Code: Simple Data,98113,Introductory,Computer Science,English,4-8,125,True,100-150,12.5,1226412.5,12264125
+Cybersecurity and Privacy in the IoT,21440,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,426656.00000000006,4266560
+Strategic Management,71085,Introductory,Business & Management,English,4-8,150,True,100-150,15.0,1066275.0,10662750
+Introducción a la ciencia de datos y sus aplicaciones,7303,Introductory,Data Analysis & Statistics,Español,4-8,39,True,0-50,3.9000000000000004,28481.700000000004,284817
+"Biochemistry: Biomolecules, Methods, and Mechanisms",18692,Intermediate,Biology & Life Sciences,English,8-12,150,False,100-150,15.0,280380.0,2803800
+Astronomía Virtual,10500,Introductory,Science,Español,4-8,29,True,0-50,2.9000000000000004,30450.000000000004,304500
+Nutrition and Cancer,27144,Intermediate,Food & Nutrition,English,4-8,99,True,50-100,9.9,268725.60000000003,2687256
+Build your very first iOS app,31570,Introductory,Computer Science,English,4-8,149,False,100-150,14.9,470393.0,4703930
+Object-Oriented Programming,93633,Introductory,Computer Science,English,1-4,149,True,100-150,14.9,1395131.7,13951317
+Introduction to Jenkins,7233,Introductory,Computer Science,English,8-12,199,True,>150,19.900000000000002,143936.7,1439367
+Conducting an Informational Interview,15594,Introductory,Language,English,4-8,99,True,50-100,9.9,154380.6,1543806
+Liderazgo y comportamiento organizacional,21419,Introductory,Business & Management,Español,1-4,149,True,100-150,14.9,319143.10000000003,3191431
+Creative Coding,18660,Introductory,Design,English,>12,249,False,>150,24.900000000000002,464634.00000000006,4646340
+Análisis estadístico con Excel,22717,Introductory,Data Analysis & Statistics,Español,1-4,49,True,0-50,4.9,111313.3,1113133
+Introducción a la Ingeniería del Software,17931,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,87861.90000000001,878619
+Computer Graphics,98553,Intermediate,Computer Science,English,4-8,99,True,50-100,9.9,975674.7000000001,9756747
+Data Science: Computational Thinking with Python,78232,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,1556816.8000000003,15568168
+Comunicación efectiva para el líder actual,18470,Introductory,Communication,Español,1-4,149,True,100-150,14.9,275203.0,2752030
+Debate y argumentación,10954,Introductory,Humanities,Español,1-4,49,True,0-50,4.9,53674.600000000006,536746
+Deep Learning with Tensorflow,37564,Intermediate,Data Analysis & Statistics,English,4-8,99,True,50-100,9.9,371883.60000000003,3718836
+Machine Learning (aprendizaje automático) con Python: una introducción práctica,39155,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,191859.5,1918595
+Essential Human Biology: Cells and Tissues,67961,Introductory,Medicine,English,4-8,169,True,>150,16.900000000000002,1148540.9000000001,11485409
+"Writing, Presenting and Submitting Scientific Papers in English | 英文科技论文写作与学术报告",35720,Intermediate,Communication,English,4-8,49,True,0-50,4.9,175028.0,1750280
+Computing in Python III: Data Structures,27239,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,269666.10000000003,2696661
+Introduction to Internet of Things (IoT),6703,Introductory,Data Analysis & Statistics,English,1-4,49,True,0-50,4.9,32844.700000000004,328447
+Nutrition and Health: Food Risks,51493,Introductory,Biology & Life Sciences,English,4-8,49,True,0-50,4.9,252315.7,2523157
+Mechanics: Kinematics and Dynamics,35529,Intermediate,Physics,English,8-12,49,True,0-50,4.9,174092.1,1740921
+Storytelling for Social Change,30313,Introductory,Communication,English,4-8,49,True,0-50,4.9,148533.7,1485337
+Introduction to Data Analytics for Managers,39113,Introductory,Business & Management,English,4-8,49,True,0-50,4.9,191653.7,1916537
+Qualitative Research Methods: Conversational Interviewing,21972,Intermediate,Humanities,English,1-4,49,True,0-50,4.9,107662.8,1076628
+International Project Management,45145,Advanced,Business & Management,English,8-12,150,True,100-150,15.0,677175.0,6771750
+Software Development Fundamentals,51402,Intermediate,Computer Science,English,1-4,149,True,100-150,14.9,765889.8,7658898
+"First Nights - Stravinsky’s Rite of Spring: Modernism, Ballet, and Riots",17484,Introductory,Humanities,English,1-4,49,True,0-50,4.9,85671.6,856716
+Critical Thinking & Problem Solving,6558,Introductory,Communication,English,1-4,199,True,>150,19.900000000000002,130504.20000000001,1305042
+Data Analysis Essentials,42262,Introductory,Business & Management,English,4-8,79,True,50-100,7.9,333869.8,3338698
+Master Control in Supply Chain Management and Logistics,31326,Introductory,Business & Management,English,4-8,49,True,0-50,4.9,153497.40000000002,1534974
+Work and Employment for a Sustainable Future,6528,Intermediate,Economics & Finance,English,4-8,49,True,0-50,4.9,31987.2,319872
+Foundations of Data Structures,54075,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,805717.5,8057175
+"Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis",31024,Intermediate,Economics & Finance,English,4-8,25,True,0-50,2.5,77560.0,775600
+IoT System Design: Software and Hardware Integration,13608,Intermediate,Computer Science,English,1-4,99,True,50-100,9.9,134719.2,1347192
+English for Doing Business in Asia – Writing,44252,Introductory,Humanities,English,4-8,60,True,50-100,6.0,265512.0,2655120
+Working in Teams: A Practical Guide,43981,Introductory,Humanities,English,1-4,49,True,0-50,4.9,215506.90000000002,2155069
+Introducción a los encofrados y las cimbras en obra civil y edificación,16029,Introductory,Engineering,Español,1-4,50,True,0-50,5.0,80145.0,801450
+AI Chatbots without Programming,35440,Introductory,Computer Science,English,1-4,99,True,50-100,9.9,350856.0,3508560
+Introducción a la Ciencia de Datos y el Big Data,16268,Intermediate,Data Analysis & Statistics,Español,1-4,49,True,0-50,4.9,79713.20000000001,797132
+Just Money: Banking as if Society Mattered,25553,Introductory,Business & Management,English,>12,49,True,0-50,4.9,125209.70000000001,1252097
+Introducción a R,6431,Introductory,Data Analysis & Statistics,Español,1-4,49,True,0-50,4.9,31511.9,315119
+Computing in Python IV: Objects & Algorithms,28112,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,278308.8,2783088
+Adobe Illustrator: aprende a crear presentaciones de impacto,18613,Introductory,Design,Español,4-8,15,True,0-50,1.5,27919.5,279195
+Teaching Critical Thinking through Art with the National Gallery of Art,18595,Introductory,Education & Teacher Training,English,>12,25,True,0-50,2.5,46487.5,464875
+Word intermedio: herramientas de formato y productividad,10265,Intermediate,Computer Science,Español,4-8,50,True,0-50,5.0,51325.0,513250
+Introducción a las finanzas: Principios de valoración,17344,Intermediate,Economics & Finance,Español,1-4,49,True,0-50,4.9,84985.6,849856
+Aprende a diseñar jardines verticales y cuadros vivos,6341,Introductory,Biology & Life Sciences,Español,1-4,29,True,0-50,2.9000000000000004,18388.9,183889
+"Anatomy: Cardiovascular, Urinary, and Respiratory Systems",36917,Introductory,Biology & Life Sciences,English,1-4,49,True,0-50,4.9,180893.30000000002,1808933
+Software Engineering: Introduction,35524,Advanced,Computer Science,English,4-8,125,True,100-150,12.5,444050.0,4440500
+Structure of Materials,13042,Intermediate,Engineering,English,>12,150,True,100-150,15.0,195630.0,1956300
+Fundamentos de fotografía documental,13036,Introductory,Art & Culture,Español,4-8,49,True,0-50,4.9,63876.4,638764
+AP® Italian Language and Culture (2020-2021),39398,Advanced,Humanities,Otros,8-12,49,True,0-50,4.9,193050.2,1930502
+Computer Hardware and Operating Systems,9715,Introductory,Computer Science,English,4-8,150,True,100-150,15.0,145725.0,1457250
+Marketing Management,43415,Advanced,Business & Management,English,4-8,214,False,>150,21.400000000000002,929081.0000000001,9290810
+You Can Innovate: User  Innovation & Entrepreneurship,18974,Introductory,Business & Management,English,8-12,49,True,0-50,4.9,92972.6,929726
+Analytics in Python,82210,Intermediate,Business & Management,English,8-12,249,False,>150,24.900000000000002,2047029.0000000002,20470290
+Bases Matemáticas: Álgebra,35811,Introductory,Math,Español,1-4,50,True,0-50,5.0,179055.0,1790550
+HTML5 Apps and Games,86850,Advanced,Computer Science,English,1-4,199,True,>150,19.900000000000002,1728315.0000000002,17283150
+MATLAB and Octave for Beginners,68706,Introductory,Computer Science,English,1-4,139,True,100-150,13.9,955013.4,9550134
+AP Physics 1,43401,Introductory,Physics,English,>12,49,True,0-50,4.9,212664.90000000002,2126649
+The Divine Comedy: Dante's Journey to Freedom,12005,Introductory,Humanities,English,4-8,49,True,0-50,4.9,58824.50000000001,588245
+Linux Basics: The Command Line Interface,32726,Introductory,Computer Science,English,4-8,49,True,0-50,4.9,160357.40000000002,1603574
+Entrepreneurial Operations: Launching a Startup,23808,Intermediate,Business & Management,English,1-4,149,True,100-150,14.9,354739.2,3547392
+Maths Essentials,44642,Introductory,Business & Management,English,4-8,79,True,50-100,7.9,352671.8,3526718
+"Marketing Analytics: Products, Distribution and Sales",50588,Intermediate,Computer Science,English,1-4,249,True,>150,24.900000000000002,1259641.2000000002,12596412
+Marketing Innovative Products and Services,6293,Introductory,Business & Management,English,1-4,149,True,100-150,14.9,93765.7,937657
+Just Reading and Writing in English | 生活英语读写,33303,Introductory,Art & Culture,English,>12,149,True,100-150,14.9,496214.7,4962147
+Introduction to Java Programming – Part 1,270376,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,2676722.4,26767224
+Comunicación y Redacción Digital,7165,Introductory,Communication,Español,1-4,29,True,0-50,2.9000000000000004,20778.500000000004,207785
+Monetary Policy Analysis and Forecasting,6616,Advanced,Economics & Finance,English,4-8,25,True,0-50,2.5,16540.0,165400
+Basic Analytical Chemistry,19010,Introductory,Chemistry,English,4-8,49,True,0-50,4.9,93149.0,931490
+Identifying Entrepreneurial Opportunities,11922,Introductory,Business & Management,English,1-4,149,True,100-150,14.9,177637.80000000002,1776378
+"ChinaX Book Club: Five Authors, Five Books, Five Views of China",5855,Introductory,Literature,English,4-8,139,True,100-150,13.9,81384.5,813845
+Astrophysics: Cosmology,83322,Intermediate,Physics,English,8-12,50,True,0-50,5.0,416610.0,4166100
+Japanese Culture and Language (I) |日语与日本文化（1）,18489,Introductory,Art & Culture,Otros,8-12,139,True,100-150,13.9,256997.1,2569971
+COVID-19 Training for Healthcare Workers,5742,Introductory,Medicine,English,1-4,10,True,0-50,1.0,5742.0,57420
+The Rise of Superheroes and Their Impact On Pop Culture,31368,Introductory,Humanities,English,4-8,50,True,0-50,5.0,156840.0,1568400
+Introduction to Aeronautical Engineering,99971,Introductory,Engineering,English,4-8,50,True,0-50,5.0,499855.0,4998550
+Diseño de Jardines,5683,Introductory,Biology & Life Sciences,Español,1-4,29,True,0-50,2.9000000000000004,16480.7,164807
+"Introducción al griego clásico: lengua, nombres y mitología",18849,Introductory,Language,Español,4-8,49,True,0-50,4.9,92360.1,923601
+Deep Learning Fundamentals with Keras,32140,Intermediate,Data Analysis & Statistics,English,4-8,99,True,50-100,9.9,318186.0,3181860
+Existential Well-being Counseling: A Person-centered Experiential Approach,48439,Introductory,Humanities,English,8-12,49,True,0-50,4.9,237351.1,2373511
+Solid Waste Management,7668,Introductory,Environmental Studies,English,4-8,5,True,0-50,0.5,3834.0,38340
+Retail Fundamentals,37558,Intermediate,Business & Management,English,1-4,99,True,50-100,9.9,371824.2,3718242
+Greatest Unsolved Mysteries of the Universe,93965,Intermediate,Physics,English,8-12,50,True,0-50,5.0,469825.0,4698250
+"Money Markets, Foreign Exchange and Time Value of Money",12230,Introductory,Economics & Finance,English,1-4,199,True,>150,19.900000000000002,243377.00000000003,2433770
+Gestión de Contenidos Digitales y Marketing Turístico de Ciudad,14627,Introductory,Communication,Español,1-4,49,True,0-50,4.9,71672.3,716723
+Designing the User Experience,6416,Introductory,Business & Management,English,1-4,199,True,>150,19.900000000000002,127678.40000000001,1276784
+Introduction to Bioconductor,36370,Intermediate,Data Analysis & Statistics,English,1-4,149,True,100-150,14.9,541913.0,5419130
+Connected Strategy,10355,Intermediate,Business & Management,English,4-8,199,True,>150,19.900000000000002,206064.50000000003,2060645
+Hybrid Vehicles,18294,Advanced,Engineering,English,4-8,249,False,>150,24.900000000000002,455520.60000000003,4555206
+First Nights - Handel's Messiah and Baroque Oratorio,18029,Introductory,Humanities,English,1-4,49,True,0-50,4.9,88342.1,883421
+Statistical Inference and Modeling for High-throughput Experiments,51590,Intermediate,Data Analysis & Statistics,English,1-4,149,True,100-150,14.9,768691.0,7686910
+First Nights - Monteverdi’s L’Orfeo and the Birth of Opera,13300,Introductory,Humanities,English,1-4,49,True,0-50,4.9,65170.00000000001,651700
+18th-Century Opera: Handel & Mozart,18331,Introductory,Music,English,4-8,99,True,50-100,9.9,181476.9,1814769
+Introduction to video game development with Unity,7605,Intermediate,Computer Science,English,4-8,50,True,0-50,5.0,38025.0,380250
+Best Practices for Project Management Success,46610,Intermediate,Business & Management,English,8-12,150,True,100-150,15.0,699150.0,6991500
+Fundamentos de la Tecnología Blockchain,5473,Introductory,Economics & Finance,Español,4-8,49,True,0-50,4.9,26817.7,268177
+Información financiera y su análisis,5473,Advanced,Economics & Finance,Español,1-4,49,True,0-50,4.9,26817.7,268177
+Coaching Skills for Learner-Centred Conversations,8089,Introductory,Education & Teacher Training,English,1-4,49,True,0-50,4.9,39636.100000000006,396361
+Intellectual Property Law and Policy: Part 1,43993,Intermediate,Law,English,4-8,169,True,>150,16.900000000000002,743481.7000000001,7434817
+Robotics,68199,Advanced,Computer Science,English,8-12,249,False,>150,24.900000000000002,1698155.1,16981551
+La gestion des ressources humaines,6824,Introductory,Business & Management,Otros,4-8,99,True,50-100,9.9,67557.6,675576
+Writing for Social Justice,9927,Introductory,Humanities,English,1-4,50,True,0-50,5.0,49635.0,496350
+Steps in Japanese for Beginners1 Part2,8080,Introductory,Language,English,4-8,99,True,50-100,9.9,79992.0,799920
+Case Studies in Functional Genomics,26850,Advanced,Data Analysis & Statistics,English,4-8,149,True,100-150,14.9,400065.0,4000650
+Essential Career Skills for Investment Banking and Finance,11655,Introductory,Business & Management,English,1-4,49,True,0-50,4.9,57109.50000000001,571095
+Data Structures and Software Design,30609,Intermediate,Computer Science,English,1-4,149,True,100-150,14.9,456074.10000000003,4560741
+Unconscious Bias: From Awareness to Action,26659,Introductory,Communication,English,1-4,49,True,0-50,4.9,130629.1,1306291
+Cybersecurity for Critical Urban Infrastructure,5306,Advanced,Computer Science,English,1-4,100,True,50-100,10.0,53060.0,530600
+"Agile Process, Project, and Program Controls",16339,Advanced,Engineering,English,1-4,199,True,>150,19.900000000000002,325146.10000000003,3251461
+Risk Management in Development Projects,13263,Intermediate,Business & Management,English,8-12,25,True,0-50,2.5,33157.5,331575
+"Pintura europea: Leonardo, Rembrandt, Goya",32635,Introductory,Humanities,Español,4-8,29,True,0-50,2.9000000000000004,94641.50000000001,946415
+Risk & Return,21970,Introductory,Business & Management,English,1-4,225,True,>150,22.5,494325.0,4943250
+Project Management of Engineering Projects: Preparing for Success,42834,Intermediate,Business & Management,English,8-12,99,False,50-100,9.9,424056.60000000003,4240566
+Supply Chain Dynamics,75464,Advanced,Business & Management,English,>12,299,False,>150,29.900000000000002,2256373.6,22563736
+AWS Developer: Building on AWS,54249,Advanced,Computer Science,English,4-8,149,True,100-150,14.9,808310.1,8083101
+Financial Accounting Made Fun: Eliminating Your Fears,36787,Introductory,Business & Management,English,1-4,199,True,>150,19.900000000000002,732061.3,7320613
+PredictionX: John Snow and the Cholera Epidemic of 1854,17713,Introductory,History,English,1-4,25,True,0-50,2.5,44282.5,442825
+Gestión de operaciones,9512,Introductory,Business & Management,Español,4-8,119,True,100-150,11.9,113192.8,1131928
+Microeconomics & Business,10962,Introductory,Economics & Finance,English,4-8,79,True,50-100,7.9,86599.8,865998
+Inteligencia artificial: Chatbots sin programación,5001,Introductory,Computer Science,Español,1-4,49,True,0-50,4.9,24504.9,245049
+Diseño e innovación de modelo de negocios,7180,Advanced,Business & Management,Español,1-4,99,True,50-100,9.9,71082.0,710820
+Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs),29171,Introductory,Economics & Finance,English,1-4,5,True,0-50,0.5,14585.5,145855
+Business Communication,24130,Introductory,Communication,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Gestão de riscos em projetos,8771,Intermediate,Business & Management,Otros,8-12,25,True,0-50,2.5,21927.5,219275
+Vocal Recording Technology,52369,Introductory,Engineering,English,4-8,49,True,0-50,4.9,256608.1,2566081
+Agua 2.0: empresas eficientes para el siglo XXI,24130,Introductory,Business & Management,Español,4-8,25,True,0-50,2.5,60325.0,603250
+IoT Sensors and Devices,33072,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,658132.8,6581328
+Introducción a las tecnologías para la Educación,31533,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,154511.7,1545117
+Fundamentos de la guitarra eléctrica y acústica,13124,Introductory,Music,Español,4-8,49,True,0-50,4.9,64307.600000000006,643076
+e-Learning on Digital Agriculture,6238,Introductory,Environmental Studies,English,4-8,5,True,0-50,0.5,3119.0,31190
+Exploring GraphQL: A Query Language for APIs,9503,Introductory,Computer Science,English,4-8,149,True,100-150,14.9,141594.7,1415947
+EmSAT English Preparation - Level 2,7346,Intermediate,Language,English,4-8,49,True,0-50,4.9,35995.4,359954
+The Data Science Method,7868,Introductory,Data Analysis & Statistics,English,4-8,39,True,0-50,3.9000000000000004,30685.200000000004,306852
+"Plato, Socrates, and the Birth of Western Philosophy | 西方哲学精神探源",21291,Introductory,Humanities,English,>12,49,True,0-50,4.9,104325.90000000001,1043259
+"Cosmic Rays, Dark Matter, and the Mysteries of the Universe",12888,Intermediate,Physics,English,1-4,49,True,0-50,4.9,63151.200000000004,631512
+Macroeconomic Diagnostics,23408,Intermediate,Economics & Finance,English,4-8,25,True,0-50,2.5,58520.0,585200
+BioStatistics,14937,Introductory,Biology & Life Sciences,English,4-8,79,True,50-100,7.9,118002.3,1180023
+Results-Based Project Management: Monitoring and Evaluation,32810,Intermediate,Business & Management,English,4-8,199,True,>150,19.900000000000002,652919.0000000001,6529190
+Estrategias y estilos de negociación,12639,Introductory,Business & Management,Español,1-4,149,True,100-150,14.9,188321.1,1883211
+Políticas efectivas de desarrollo infantil,64387,Intermediate,Social Sciences,Español,8-12,25,True,0-50,2.5,160967.5,1609675
+Alzheimer’s Disease & Dementia Care,5763,Intermediate,Medicine,English,4-8,49,True,0-50,4.9,28238.7,282387
+Understanding Classroom Interaction,27114,Introductory,Education & Teacher Training,English,4-8,49,True,0-50,4.9,132858.6,1328586
+Sign Language Science: Emergence and Evolution of Sign Language,8313,Introductory,Language,English,1-4,99,True,50-100,9.9,82298.7,822987
+International Humanitarian Law,31419,Advanced,Law,English,8-12,150,True,100-150,15.0,471285.0,4712850
+"Educación de calidad para todos: equidad, inclusión y atención a la diversidad",25111,Introductory,Education & Teacher Training,Español,4-8,49,True,0-50,4.9,123043.90000000001,1230439
+Introduction to Astrophysics,20802,Introductory,Physics,English,4-8,139,True,100-150,13.9,289147.8,2891478
+Epidemics I,10618,Introductory,Medicine,English,4-8,139,True,100-150,13.9,147590.2,1475902
+Introducción a la genética y la evolución,15297,Introductory,Biology & Life Sciences,Español,1-4,49,True,0-50,4.9,74955.3,749553
+Fundamentals of Macroeconomics,17820,Introductory,Economics & Finance,English,4-8,129,True,100-150,12.9,229878.0,2298780
+"Blockchain and FinTech: Basics, Applications, and Limitations",22011,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,438018.9,4380189
+Molecular Biology - Part 2: Transcription and Transposition,18168,Advanced,Biology & Life Sciences,English,4-8,99,True,50-100,9.9,179863.2,1798632
+"One Planet, One Ocean",12166,Intermediate,Environmental Studies,English,4-8,49,True,0-50,4.9,59613.4,596134
+Reputation Management in a Digital World,39672,Intermediate,Communication,English,4-8,99,True,50-100,9.9,392752.8,3927528
+Google Ads: publicidad efectiva,12084,Introductory,Business & Management,Español,4-8,49,True,0-50,4.9,59211.600000000006,592116
+Introducción a la energía solar fotovoltaica: El módulo fotovoltaico,14673,Intermediate,Engineering,Español,1-4,50,True,0-50,5.0,73365.0,733650
+Computer Vision Fundamentals with Watson and OpenCV,7032,Introductory,Computer Science,English,>12,99,True,50-100,9.9,69616.8,696168
+Japanese Business Management,14852,Intermediate,Business & Management,English,1-4,129,True,100-150,12.9,191590.80000000002,1915908
+Introduction to Cloud Computing,24130,Introductory,Computer Science,English,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Fundamentos de logística,7397,Introductory,Engineering,Español,4-8,29,True,0-50,2.9000000000000004,21451.300000000003,214513
+Sustainable Urban Development,45760,Introductory,Social Sciences,English,4-8,50,True,0-50,5.0,228800.0,2288000
+Introduction to Biomedical Imaging,56485,Introductory,Medicine,English,8-12,99,True,50-100,9.9,559201.5,5592015
+Introducción a la programación en Java: empezando a programar,23321,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,114272.90000000001,1142729
+"Circuits and Electronics 2: Amplification, Speed, and Delay",9665,Intermediate,Electronics,English,4-8,169,True,>150,16.900000000000002,163338.50000000003,1633385
+China’s Political and Intellectual Foundations: From Sage Kings to Confucius,47083,Introductory,History,English,>12,139,True,100-150,13.9,654453.7000000001,6544537
+Introduction to DevOps and Site Reliability Engineering,8697,Introductory,Computer Science,English,8-12,149,True,100-150,14.9,129585.3,1295853
+SQL aplicado en la  ciencia de datos,24130,Introductory,Data Analysis & Statistics,Español,1-4,39,True,0-50,3.9000000000000004,94107.00000000001,941070
+Sign Language Science: Factors Contributing to Nature Structure,24130,Introductory,Language,English,1-4,99,True,50-100,9.9,238887.0,2388870
+Gender and Intersectionality,24130,Introductory,Humanities,English,4-8,50,True,0-50,5.0,120650.0,1206500
+Digital Transformation in Business,10118,Advanced,Business & Management,English,4-8,214,True,>150,21.400000000000002,216525.2,2165252
+Designing and Creating Trousers,7544,Introductory,Design,English,4-8,99,True,50-100,9.9,74685.6,746856
+Introducción a la teoría política: conceptos y grandes pensadores,11741,Introductory,Social Sciences,Español,4-8,59,True,50-100,5.9,69271.90000000001,692719
+"Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion",11426,Intermediate,Social Sciences,English,8-12,49,True,0-50,4.9,55987.4,559874
+Industry 4.0: How to Revolutionize your Business,28404,Introductory,Business & Management,English,4-8,50,True,0-50,5.0,142020.0,1420200
+Desafíos y oportunidades en la economía digital,47792,Introductory,Economics & Finance,Español,8-12,25,True,0-50,2.5,119480.0,1194800
+Pensamiento crítico: toma de decisiones razonadas,16853,Introductory,Business & Management,Español,1-4,149,True,100-150,14.9,251109.7,2511097
+"MathTrackX: Polynomials, Functions and Graphs",24130,Introductory,Math,English,1-4,79,True,50-100,7.9,190627.0,1906270
+Sustainable Food Security: Crop Production,35367,Intermediate,Biology & Life Sciences,English,4-8,49,True,0-50,4.9,173298.30000000002,1732983
+Network and Security Foundations,7301,Introductory,Computer Science,English,4-8,299,True,>150,29.900000000000002,218299.90000000002,2182999
+Cannabis Cultivation and Processing,7419,Introductory,Environmental Studies,English,1-4,179,True,>150,17.900000000000002,132800.1,1328001
+"Data, Models and Decisions in Business Analytics",36289,Advanced,Business & Management,English,8-12,249,False,>150,24.900000000000002,903596.1000000001,9035961
+Data Structures Fundamentals,42381,Intermediate,Computer Science,English,4-8,99,True,50-100,9.9,419571.9,4195719
+Shaping Work of the Future,22246,Introductory,Business & Management,English,4-8,49,True,0-50,4.9,109005.40000000001,1090054
+Introducción a la robótica e industria 4.0,7056,Introductory,Computer Science,Español,1-4,49,True,0-50,4.9,34574.4,345744
+Fighting for Equality: 1950–2018,9274,Intermediate,History,English,8-12,50,True,0-50,5.0,46370.0,463700
+"Design Thinking: Ideation, Iteration and Communication",14629,Intermediate,Business & Management,English,4-8,299,True,>150,29.900000000000002,437407.10000000003,4374071
+Negotiation Strategies and Styles,24130,Intermediate,Business & Management,English,1-4,149,True,100-150,14.9,359537.0,3595370
+Crear música con tecnología,10961,Introductory,Music,Español,4-8,49,True,0-50,4.9,53708.9,537089
+Análisis de datos: Diseño y Visualización de Tableros,18368,Intermediate,Computer Science,Español,4-8,49,True,0-50,4.9,90003.20000000001,900032
+Comunicación estratégica: gestión de crisis e imagen pública,7017,Introductory,Communication,Español,1-4,49,True,0-50,4.9,34383.3,343833
+"Understanding Agribusiness, Value Chains, and Consumers in Global Food Systems",14052,Intermediate,Business & Management,English,1-4,199,True,>150,19.900000000000002,279634.80000000005,2796348
+Unlocking Information Security: Part II,6426,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,95747.40000000001,957474
+Human Rights Defenders,27338,Introductory,Social Sciences,English,1-4,49,True,0-50,4.9,133956.2,1339562
+Product Design: The Delft Design Approach,87539,Intermediate,Business & Management,English,4-8,79,True,50-100,7.9,691558.1,6915581
+Introduction to Psychology | 心理学概论,30731,Introductory,Philosophy & Ethics,Otros,>12,139,True,100-150,13.9,427160.9,4271609
+Circuits and Electronics 3: Applications,9347,Intermediate,Electronics,English,4-8,169,True,>150,16.900000000000002,157964.30000000002,1579643
+Vaccines: from smallpox to technologies of the future,6166,Intermediate,Medicine,English,4-8,49,True,0-50,4.9,30213.4,302134
+Le management,6273,Introductory,Business & Management,Otros,4-8,149,True,100-150,14.9,93467.7,934677
+Circular Economy for a Sustainable Built Environment,8032,Intermediate,Architecture,English,4-8,50,True,0-50,5.0,40160.0,401600
+Agile Innovation and Problem Solving Skills,12667,Advanced,Engineering,English,1-4,199,True,>150,19.900000000000002,252073.30000000002,2520733
+International Investment Law,23335,Advanced,Law,English,8-12,150,False,100-150,15.0,350025.0,3500250
+Animation and CGI Motion,36827,Advanced,Computer Science,English,8-12,249,False,>150,24.900000000000002,916992.3,9169923
+Terrorism and Counterterrorism,28580,Introductory,Humanities,English,4-8,49,True,0-50,4.9,140042.0,1400420
+Découvrir le marketing,30030,Intermediate,Business & Management,Otros,8-12,150,False,100-150,15.0,450450.0,4504500
+Solar Energy: Photovoltaic (PV) Energy Conversion,38041,Advanced,Engineering,English,8-12,250,False,>150,25.0,951025.0,9510250
+Introduction to Actuarial Science,52667,Introductory,Data Analysis & Statistics,English,4-8,49,True,0-50,4.9,258068.30000000002,2580683
+PredictionX: Lost Without Longitude,9114,Introductory,History,English,1-4,49,True,0-50,4.9,44658.600000000006,446586
+Information Technology Foundations,6388,Introductory,Computer Science,English,4-8,399,True,>150,39.900000000000006,254881.20000000004,2548812
+Introducción a la Inteligencia Artificial de Watson,24130,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Dealing with Power and Dynamics: Discover Your Leadership Style and Influence Stakeholders,16013,Intermediate,Business & Management,English,4-8,125,True,100-150,12.5,200162.5,2001625
+Instructional Design and Technology: Learning Theories,21296,Intermediate,Education & Teacher Training,English,4-8,299,False,>150,29.900000000000002,636750.4,6367504
+"Algorithms: Design and Analysis, Part 2",24130,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,359537.0,3595370
+The Math of Data Science: Linear Algebra,6746,Intermediate,Math,English,4-8,159,True,>150,15.9,107261.40000000001,1072614
+Introducción al quirófano,24130,Intermediate,Medicine,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+The Hardware of a Quantum Computer,20052,Intermediate,Physics,English,4-8,79,True,50-100,7.9,158410.80000000002,1584108
+Grabar y mezclar música,10856,Introductory,Music,Español,1-4,49,True,0-50,4.9,53194.4,531944
+Leadership focused on Human Flourishing,24130,Intermediate,Business & Management,English,1-4,149,True,100-150,14.9,359537.0,3595370
+Automata Theory,24130,Advanced,Computer Science,English,4-8,129,True,100-150,12.9,311277.0,3112770
+¡Conceptos básicos de Python para Data Science!,24130,Introductory,Data Analysis & Statistics,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Herramientas para el Análisis de Big Data,8118,Intermediate,Data Analysis & Statistics,Español,1-4,49,True,0-50,4.9,39778.200000000004,397782
+Foundations of Central Bank Law,6169,Intermediate,Law,English,4-8,25,True,0-50,2.5,15422.5,154225
+C Programming: Modular Programming and Memory Management,18690,Introductory,Computer Science,English,4-8,49,True,0-50,4.9,91581.0,915810
+Enseñanza temprana de matemáticas y ciencias,8250,Introductory,Education & Teacher Training,Español,8-12,25,True,0-50,2.5,20625.0,206250
+Entrepreneurship 102: What can you do for your customer?,11275,Introductory,Business & Management,English,8-12,49,True,0-50,4.9,55247.50000000001,552475
+Italian Language and Culture: Advanced (2019-2020),24667,Advanced,Language,Otros,8-12,49,True,0-50,4.9,120868.3,1208683
+Introduction to Marketing,24130,Introductory,Business & Management,English,4-8,149,True,100-150,14.9,359537.0,3595370
+Origins of the Human Mind,11812,Introductory,Science,English,4-8,49,True,0-50,4.9,57878.8,578788
+Introduction to Geometry,61824,Introductory,Math,English,>12,50,True,0-50,5.0,309120.0,3091200
+The Future of Work: Preparing for Disruption,43125,Introductory,Economics & Finance,English,4-8,5,True,0-50,0.5,21562.5,215625
+Clinical Reasoning Process,5367,Introductory,Medicine,English,4-8,149,True,100-150,14.9,79968.3,799683
+Datos para la efectividad de las políticas públicas,80425,Introductory,Data Analysis & Statistics,Español,8-12,25,True,0-50,2.5,201062.5,2010625
+Media Law,7253,Introductory,Art & Culture,English,>12,249,False,>150,24.900000000000002,180599.7,1805997
+Líderes para la Gestión en Seguridad Ciudadana y Justicia,12826,Intermediate,Social Sciences,Español,8-12,25,True,0-50,2.5,32065.0,320650
+"Diseña, fabrica y programa tu propio robot",25024,Introductory,Engineering,Español,4-8,75,True,50-100,7.5,187680.0,1876800
+Pivoting to Online Teaching: Research and Practitioner Perspectives,5289,Introductory,Education & Teacher Training,English,4-8,139,True,100-150,13.9,73517.1,735171
+Circular Economy: An Interdisciplinary Approach,10281,Advanced,Business & Management,English,4-8,149,True,100-150,14.9,153186.9,1531869
+Calculus 1B: Integration,44669,Intermediate,Math,English,>12,100,False,50-100,10.0,446690.0,4466900
+Algorithmic Design and Techniques,40620,Intermediate,Computer Science,English,4-8,99,True,50-100,9.9,402138.0,4021380
+Drinking Water Treatment,51918,Intermediate,Engineering,English,4-8,50,True,0-50,5.0,259590.0,2595900
+Fundamentos de información financiera y contable,7789,Intermediate,Economics & Finance,Español,4-8,49,True,0-50,4.9,38166.100000000006,381661
+Les principes de la finance,44037,Intermediate,Business & Management,Otros,>12,150,True,100-150,15.0,660555.0,6605550
+Music Technology Foundations,34550,Introductory,Computer Science,English,4-8,169,True,>150,16.900000000000002,583895.0000000001,5838950
+The Entrepreneurial Mindset,31077,Introductory,Business & Management,English,4-8,149,True,100-150,14.9,463047.3,4630473
+"Anatomy: Gastrointestinal, Reproductive and Endocrine Systems",26453,Introductory,Biology & Life Sciences,English,4-8,49,True,0-50,4.9,129619.70000000001,1296197
+Risk Management and Credit Principles,9028,Advanced,Economics & Finance,English,4-8,199,True,>150,19.900000000000002,179657.2,1796572
+Steps in Japanese for Beginners1 Part3,6169,Introductory,Language,English,4-8,99,True,50-100,9.9,61073.100000000006,610731
+Structural Materials: Selection and Economics,9752,Introductory,Engineering,English,1-4,50,True,0-50,5.0,48760.0,487600
+Algorithm Design and Analysis,39137,Intermediate,Computer Science,English,1-4,149,True,100-150,14.9,583141.3,5831413
+Estructuras de Datos con Python,24130,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Mandarin Chinese for Business,12384,Intermediate,Language,English,4-8,149,True,100-150,14.9,184521.6,1845216
+Bases Matemáticas: Números y terminología,26060,Intermediate,Math,Español,1-4,50,True,0-50,5.0,130300.0,1303000
+Arab-Islamic History: From Tribes to Empires,17321,Introductory,Humanities,English,4-8,149,True,100-150,14.9,258082.9,2580829
+Human-Computer Interaction I: Fundamentals & Design Principles,9010,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,89199.0,891990
+Modeling and simulation of multibody systems,24130,Intermediate,Engineering,English,>12,50,False,0-50,5.0,120650.0,1206500
+The Science of Parenting,37538,Introductory,Social Sciences,English,4-8,49,True,0-50,4.9,183936.2,1839362
+Inclusive Teaching: Supporting All Students in the College Classroom,9899,Introductory,Education & Teacher Training,English,4-8,49,True,0-50,4.9,48505.100000000006,485051
+Analytics for Decision Making,31031,Introductory,Business & Management,English,1-4,249,True,>150,24.900000000000002,772671.9,7726719
+Principios de Análisis e Instrumentos Financieros,24130,Intermediate,Economics & Finance,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Energy Principles and Renewable Energy,19520,Advanced,Energy & Earth Sciences,English,>12,375,False,>150,37.5,732000.0,7320000
+DNA: Biology’s Genetic Code,35162,Intermediate,Biology & Life Sciences,English,4-8,169,True,>150,16.900000000000002,594237.8,5942378
+Music For Wellness,19728,Introductory,Humanities,English,1-4,49,True,0-50,4.9,96667.20000000001,966672
+Mining Massive Datasets,5311,Advanced,Computer Science,English,4-8,149,True,100-150,14.9,79133.90000000001,791339
+Introduction to Electrical and Electronic Engineering - 電気電子工学入門 -,25041,Introductory,Engineering,English,1-4,50,True,0-50,5.0,125205.0,1252050
+A travel by Spanish America: Spanish for beginners,24130,Introductory,Language,Español,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Introducción a la Inteligencia Artificial,11184,Introductory,Computer Science,Español,1-4,49,True,0-50,4.9,54801.600000000006,548016
+Introducción a la Inteligencia Artificial: Principales Algoritmos,24130,Introductory,Computer Science,Español,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Digital Security and Human Rights,11443,Introductory,Social Sciences,English,1-4,49,True,0-50,4.9,56070.700000000004,560707
+Critical thinking: reasoned decision making,6923,Introductory,Business & Management,English,1-4,149,True,100-150,14.9,103152.7,1031527
+Introduction to the Internet of Things,7581,Introductory,Electronics,English,4-8,50,True,0-50,5.0,37905.0,379050
+Trading - Fundamentals of Technical Analysis,24130,Introductory,Economics & Finance,English,4-8,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Riñones: conoce sus funciones para mejorar tu salud y calidad de vida,20261,Introductory,Medicine,Español,4-8,49,True,0-50,4.9,99278.90000000001,992789
+Design Thinking: Empathizing to Understand the Problem,13340,Intermediate,Business & Management,English,4-8,299,True,>150,29.900000000000002,398866.0,3988660
+Storytelling in the Workplace,24130,Introductory,Communication,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Marketing Analytics: Price and Promotion Analytics,41021,Intermediate,Computer Science,English,1-4,249,True,>150,24.900000000000002,1021422.9000000001,10214229
+Implementation of Data Structures,27761,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,413638.9,4136389
+Activism and Citizen Journalism through Media,7460,Introductory,Communication,English,1-4,49,True,0-50,4.9,36554.0,365540
+Electric and Conventional Vehicles,22089,Advanced,Engineering,English,4-8,249,False,>150,24.900000000000002,550016.1000000001,5500161
+Big Data Fundamentals,40106,Intermediate,Computer Science,English,8-12,199,True,>150,19.900000000000002,798109.4000000001,7981094
+Sustainable Food Security: The value of systems thinking,26600,Introductory,Biology & Life Sciences,English,4-8,49,True,0-50,4.9,130340.00000000001,1303400
+Knowledge Management and Big Data in Business,69064,Introductory,Business & Management,English,4-8,50,True,0-50,5.0,345320.0,3453200
+Uso efectivo del tiempo,6409,Introductory,Economics & Finance,Español,4-8,49,True,0-50,4.9,31404.100000000002,314041
+C Programming: Pointers and Memory Management,19171,Introductory,Computer Science,English,4-8,49,True,0-50,4.9,93937.90000000001,939379
+Astrophysics: The Violent Universe,65711,Intermediate,Physics,English,8-12,50,True,0-50,5.0,328555.0,3285550
+Landscape Ecology,8644,Intermediate,Environmental Studies,English,>12,50,True,0-50,5.0,43220.0,432200
+IoT Programming and Big Data,21591,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,429660.9,4296609
+AWS: Getting Started with Cloud Security,8192,Introductory,Computer Science,English,1-4,49,True,0-50,4.9,40140.8,401408
+Introducción a la gravedad cuántica de lazos,7360,Introductory,Science,Español,4-8,50,True,0-50,5.0,36800.0,368000
+Introduction to the Music Business,46607,Introductory,Business & Management,English,4-8,49,True,0-50,4.9,228374.30000000002,2283743
+Introducción a la programación en C: Tipos de datos y estructuras,13480,Introductory,Computer Science,Español,1-4,49,True,0-50,4.9,66052.0,660520
+Visualización de Datos y Storytelling,5980,Intermediate,Data Analysis & Statistics,Español,1-4,49,True,0-50,4.9,29302.000000000004,293020
+Negociación exitosa: Estrategias y habilidades esenciales (en español),24130,Introductory,Business & Management,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+"Feeding a Hungry Planet: Agriculture, Nutrition and Sustainability",10488,Intermediate,Environmental Studies,English,4-8,49,True,0-50,4.9,51391.200000000004,513912
+Macroeconomics - The Basics,24130,Introductory,Economics & Finance,English,4-8,79,True,50-100,7.9,190627.0,1906270
+Fundamentals of Financial Mathematics and Capital Budgeting,5410,Introductory,Economics & Finance,English,1-4,99,True,50-100,9.9,53559.0,535590
+Gestión participativa: motivación y liderazgo organizacional,23441,Intermediate,Business & Management,Español,4-8,79,True,50-100,7.9,185183.9,1851839
+Herramientas de ciencia de datos: uso práctico,24130,Introductory,Data Analysis & Statistics,Español,4-8,39,True,0-50,3.9000000000000004,94107.00000000001,941070
+Bienestar para el desarrollo personal y profesional,24130,Intermediate,Health & Safety,Español,4-8,29,True,0-50,2.9000000000000004,69977.00000000001,699770
+Energía eléctrica: conceptos y principios básicos,9762,Intermediate,Engineering,Español,4-8,49,True,0-50,4.9,47833.8,478338
+Market Segmentation Analysis,17055,Intermediate,Business & Management,English,4-8,99,True,50-100,9.9,168844.5,1688445
+Pensamento crítico: tomada de decisões fundamentadas,24130,Introductory,Business & Management,Otros,1-4,149,True,100-150,14.9,359537.0,3595370
+AP® English Literature & Composition – Part 2: Poems,5719,Introductory,Humanities,English,4-8,49,True,0-50,4.9,28023.100000000002,280231
+"Electrical, Optical & Magnetic Materials and Devices",16905,Intermediate,Engineering,English,>12,150,True,100-150,15.0,253575.0,2535750
+Advanced Cardiac Imaging: Cardiac Computed Tomography (CT),24130,Introductory,Medicine,English,1-4,99,True,50-100,9.9,238887.0,2388870
+How to Design a Successful Business Model,33656,Introductory,Business & Management,English,4-8,99,True,50-100,9.9,333194.4,3331944
+Ecodesign for Cities and Suburbs,28472,Introductory,Environmental Studies,English,4-8,99,True,50-100,9.9,281872.8,2818728
+Agile Software Development,37158,Introductory,Computer Science,English,4-8,50,True,0-50,5.0,185790.0,1857900
+Diseño de sistemas de información gerencial para intranet con Microsoft Access,9144,Intermediate,Computer Science,Español,1-4,49,True,0-50,4.9,44805.600000000006,448056
+Essentials of Program Strategy and Evaluation,24130,Introductory,Philanthropy,English,1-4,50,True,0-50,5.0,120650.0,1206500
+Gestão de Projetos de Desenvolvimento,28337,Introductory,Business & Management,Otros,8-12,49,True,0-50,4.9,138851.30000000002,1388513
+Innovation: From Plan to Product,12918,Intermediate,Business & Management,English,8-12,249,True,>150,24.900000000000002,321658.2,3216582
+Introduction to Database Queries,24130,Introductory,Computer Science,English,4-8,166,True,>150,16.6,400558.00000000006,4005580
+Climate Change: Carbon Capture and Storage,10551,Introductory,Engineering,English,4-8,49,True,0-50,4.9,51699.9,516999
+Reservoir Geomechanics,5280,Introductory,Energy & Earth Sciences,English,8-12,129,True,100-150,12.9,68112.0,681120
+Fundamentos de administración estratégica,24130,Intermediate,Business & Management,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+IoT System Architecture: Design and Evaluation,5914,Introductory,Computer Science,English,1-4,99,True,50-100,9.9,58548.6,585486
+Noongar Language and Culture,10858,Introductory,Language,English,4-8,139,True,100-150,13.9,150926.2,1509262
+Sorting Truth From Fiction: Civic Online Reasoning,24130,Introductory,Education & Teacher Training,English,1-4,49,False,0-50,4.9,118237.00000000001,1182370
+Sustainable Food Security: Food Access,18943,Introductory,Social Sciences,English,4-8,49,True,0-50,4.9,92820.70000000001,928207
+Bases Matemáticas: Integrales,23703,Introductory,Math,Español,4-8,50,True,0-50,5.0,118515.0,1185150
+Epidemics II,8565,Introductory,Medicine,English,1-4,139,True,100-150,13.9,119053.5,1190535
+Derechos humanos: Los derechos de las personas refugiadas,28398,Introductory,Humanities,Español,1-4,49,True,0-50,4.9,139150.2,1391502
+Sign Language Science: Factors Contributing to Natural Learning,24130,Introductory,Language,English,1-4,99,True,50-100,9.9,238887.0,2388870
+Big Data Analytics,43009,Intermediate,Computer Science,English,8-12,199,True,>150,19.900000000000002,855879.1000000001,8558791
+"A-level Mathematics for Year 13 - Course 1: Functions, Sequences and Series, and Numerical Methods",6594,Intermediate,Math,English,4-8,49,True,0-50,4.9,32310.600000000002,323106
+ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible,16028,Introductory,Social Sciences,Español,4-8,25,True,0-50,2.5,40070.0,400700
+Achieving Product-Market Fit,24130,Introductory,Business & Management,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Culture and Law: The East Asian Perspective,24130,Introductory,Social Sciences,English,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Fundamentals of Market Structure,32049,Introductory,Economics & Finance,English,1-4,25,True,0-50,2.5,80122.5,801225
+Protecting Children in Humanitarian Settings,7246,Intermediate,Social Sciences,English,8-12,50,True,0-50,5.0,36230.0,362300
+How to Achieve the Sustainable Development Goals,12719,Intermediate,Environmental Studies,English,4-8,49,True,0-50,4.9,62323.100000000006,623231
+Aprendizaje y Enseñanza en la Era Digital,16954,Intermediate,Education & Teacher Training,Español,1-4,49,True,0-50,4.9,83074.6,830746
+From Atoms to Stars: How Physics Explains Our World,15914,Intermediate,Physics,English,1-4,49,True,0-50,4.9,77978.6,779786
+The Threat of Nuclear Terrorism,24130,Introductory,History,English,4-8,50,True,0-50,5.0,120650.0,1206500
+Introducción a Matemáticas para Finanzas y Negocios,24130,Advanced,Economics & Finance,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Ingeniería de aeropuertos: diseño del lado aire según OACI (ICAO),24130,Intermediate,Engineering,Español,4-8,75,True,50-100,7.5,180975.0,1809750
+Liderazgo inclusivo,24130,Intermediate,Business & Management,Español,4-8,29,True,0-50,2.9000000000000004,69977.00000000001,699770
+مساق اللّغة العربيّة,24130,Introductory,Language,Otros,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+"Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet",8330,Intermediate,Physics,English,4-8,79,True,50-100,7.9,65807.0,658070
+Contemporary Issues in World Politics,11426,Introductory,Social Sciences,English,4-8,59,True,50-100,5.9,67413.40000000001,674134
+More Fun with Prime Numbers,10604,Intermediate,Math,English,4-8,49,True,0-50,4.9,51959.600000000006,519596
+Enterprise Selling,5020,Introductory,Business & Management,English,4-8,149,True,100-150,14.9,74798.0,747980
+Climate Change: Financial Risks and Opportunities,9977,Intermediate,Economics & Finance,English,1-4,79,True,50-100,7.9,78818.3,788183
+Caer o No caer. El Secreto de las Estructuras.,20939,Introductory,Engineering,Español,4-8,29,True,0-50,2.9000000000000004,60723.100000000006,607231
+Mandarin Chinese Level 2,8784,Introductory,Language,English,4-8,149,True,100-150,14.9,130881.6,1308816
+Design Thinking: Prototyping and User Testing,10769,Intermediate,Business & Management,English,4-8,299,True,>150,29.900000000000002,321993.10000000003,3219931
+Bases Matemáticas: Derivadas,24301,Introductory,Math,Español,4-8,50,True,0-50,5.0,121505.0,1215050
+Buscar en Internet,27320,Introductory,Computer Science,Español,4-8,49,True,0-50,4.9,133868.0,1338680
+Big Data and Education,14909,Advanced,Data Analysis & Statistics,English,4-8,169,True,>150,16.900000000000002,251962.10000000003,2519621
+Model-Based Automotive Systems Engineering,13857,Advanced,Engineering,English,4-8,249,False,>150,24.900000000000002,345039.30000000005,3450393
+Introduction to Hyperledger Blockchain Technologies,138884,Introductory,Business & Management,English,>12,199,True,>150,19.900000000000002,2763791.6,27637916
+MathTrackX: Integral Calculus,24130,Introductory,Math,English,1-4,79,True,50-100,7.9,190627.0,1906270
+Solar Energy Engineering: Comprehensive Exams,24130,Advanced,Engineering,English,4-8,250,True,>150,25.0,603250.0,6032500
+Mercados de capital y participantes claves,7210,Introductory,Economics & Finance,Español,1-4,49,True,0-50,4.9,35329.0,353290
+Introducción al desarrollo de videojuegos con Unity,27474,Intermediate,Computer Science,Español,4-8,50,True,0-50,5.0,137370.0,1373700
+Incorporating Renewable Energy in Electricity Grids,10430,Intermediate,Energy & Earth Sciences,English,4-8,49,True,0-50,4.9,51107.00000000001,511070
+Herramientas de la Inteligencia de Negocios,24130,Introductory,Data Analysis & Statistics,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Overview & Management of Parkinson’s Disease,24130,Intermediate,Medicine,English,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Conociendo los costos,24130,Intermediate,Economics & Finance,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Sprint Planning for Faster Agile Team Delivery,10654,Advanced,Engineering,English,1-4,199,True,>150,19.900000000000002,212014.60000000003,2120146
+Introduction to Water and Climate,36320,Intermediate,Engineering,English,8-12,50,True,0-50,5.0,181600.0,1816000
+The Medieval Icelandic Sagas,11176,Intermediate,Humanities,English,4-8,50,True,0-50,5.0,55880.0,558800
+Visual Presentation,24130,Introductory,Communication,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Community Engagement: Collaborating for Change,11818,Introductory,Social Sciences,English,4-8,49,True,0-50,4.9,57908.200000000004,579082
+Introducción al Internet de las Cosas (IoT),6322,Introductory,Electronics,Español,4-8,50,True,0-50,5.0,31610.0,316100
+"Proteins: Alignment, Analysis and Structure",23560,Advanced,Biology & Life Sciences,English,4-8,249,False,>150,24.900000000000002,586644.0,5866440
+AI Applications with Watson,9173,Intermediate,Computer Science,English,1-4,99,True,50-100,9.9,90812.7,908127
+Data Analytics and Visualization in Health Care,7304,Advanced,Data Analysis & Statistics,English,4-8,249,True,>150,24.900000000000002,181869.6,1818696
+Question Everything: Scientific Thinking in Real Life,34279,Introductory,Math,English,4-8,59,True,50-100,5.9,202246.1,2022461
+Introduction to Lifestyle Medicine,9002,Introductory,Biology & Life Sciences,English,4-8,79,True,50-100,7.9,71115.8,711158
+"Social Work Practice with Individuals, Families, and Small Groups",16134,Advanced,Social Sciences,English,4-8,199,True,>150,19.900000000000002,321066.60000000003,3210666
+Gateway to Medicine: An Introduction to the Field of Medicine|走近医学,6938,Introductory,Medicine,Otros,8-12,49,True,0-50,4.9,33996.200000000004,339962
+Indian & Tibetan River of Buddhism,6738,Intermediate,Humanities,English,8-12,49,True,0-50,4.9,33016.200000000004,330162
+Compostaje Orgánico en Casa,24130,Introductory,Environmental Studies,Español,4-8,29,False,0-50,2.9000000000000004,69977.00000000001,699770
+Financial Analysis for Decision Making,39156,Introductory,Business & Management,English,1-4,199,True,>150,19.900000000000002,779204.4000000001,7792044
+Lifestyle Medicine Treatments of Chronic Disease – Part 1,5668,Intermediate,Medicine,English,1-4,179,True,>150,17.900000000000002,101457.20000000001,1014572
+Building Containerized Applications on AWS,6128,Intermediate,Computer Science,English,4-8,99,True,50-100,9.9,60667.200000000004,606672
+Effective Communication for Program and Project Stakeholders and Teams,24130,Introductory,Business & Management,English,4-8,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Biobased Products for a Sustainable (Bio)economy,6951,Introductory,Biology & Life Sciences,English,8-12,50,True,0-50,5.0,34755.0,347550
+Social Work Practice: Advocating Social Justice and Change,19603,Introductory,Social Sciences,English,4-8,49,True,0-50,4.9,96054.70000000001,960547
+Anthropology of Current World Issues,44821,Introductory,Humanities,English,8-12,99,False,50-100,9.9,443727.9,4437279
+Buyer Behaviour and Analysis,19717,Advanced,Communication,English,8-12,199,False,>150,19.900000000000002,392368.30000000005,3923683
+Idea Development: Create and Implement Innovative Ideas,11501,Intermediate,Business & Management,English,8-12,249,True,>150,24.900000000000002,286374.9,2863749
+Analysis of Transport Phenomena I: Mathematical Methods,9169,Advanced,Engineering,English,>12,149,False,100-150,14.9,136618.1,1366181
+Leading the Organization,14998,Intermediate,Business & Management,English,8-12,249,True,>150,24.900000000000002,373450.2,3734502
+"Financial Programming and Policies, Part 2: Program Design",19330,Intermediate,Economics & Finance,English,4-8,25,True,0-50,2.5,48325.0,483250
+Introduction to Open Source Networking Technologies,17436,Introductory,Computer Science,English,>12,169,True,>150,16.900000000000002,294668.4,2946684
+Deep Learning Essentials,5018,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,74768.2,747682
+Estadística Aplicada a los Negocios,25295,Introductory,Data Analysis & Statistics,Español,4-8,49,True,0-50,4.9,123945.50000000001,1239455
+"English for Journalists, Part 2",22814,Intermediate,Communication,English,4-8,49,True,0-50,4.9,111788.6,1117886
+Teaching & Learning in the Diverse Classroom,7104,Introductory,Education & Teacher Training,English,4-8,99,False,50-100,9.9,70329.6,703296
+Fundamentals of Microeconomics | Fundamentos de Microeconomía,18456,Introductory,Social Sciences,English,4-8,129,True,100-150,12.9,238082.4,2380824
+Migrating to the AWS Cloud,24130,Intermediate,Computer Science,English,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+IoT Networks and Protocols,22136,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,440506.4,4405064
+"American Prophet: The Inner Life and Global Vision of Martin Luther King, Jr.",24130,Introductory,History,English,8-12,50,True,0-50,5.0,120650.0,1206500
+China’s First Empires and the Rise of Buddhism,46053,Introductory,History,English,>12,139,True,100-150,13.9,640136.7000000001,6401367
+Apnea y Trastornos del Sueño,14902,Introductory,Health & Safety,Español,8-12,49,True,0-50,4.9,73019.8,730198
+Educación sobre el cambio climático,23253,Introductory,Education & Teacher Training,Español,8-12,25,True,0-50,2.5,58132.5,581325
+Quantum Mechanics: A First Course,24130,Advanced,Physics,English,>12,149,False,100-150,14.9,359537.0,3595370
+Urban Sewage Treatment,40408,Intermediate,Engineering,English,4-8,50,True,0-50,5.0,202040.0,2020400
+Doing Gender and Why it Matters,6826,Introductory,Social Sciences,English,4-8,99,True,50-100,9.9,67577.40000000001,675774
+Producción musical y su efecto en la composición,7869,Introductory,Music,Español,4-8,49,True,0-50,4.9,38558.100000000006,385581
+"Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors",12425,Intermediate,Electronics,English,4-8,70,True,50-100,7.0,86975.0,869750
+"19th-Century Opera: Meyerbeer, Wagner, & Verdi",9340,Introductory,Music,English,4-8,99,True,50-100,9.9,92466.0,924660
+Modelos predictivos con Machine Learning,5102,Intermediate,Computer Science,Español,1-4,49,True,0-50,4.9,24999.800000000003,249998
+Quantitative Marketing Research,24130,Introductory,Business & Management,English,4-8,50,True,0-50,5.0,120650.0,1206500
+Les fondements de la stratégie d’entreprise,33021,Introductory,Business & Management,Otros,8-12,150,False,100-150,15.0,495315.0,4953150
+Solar Energy: Integration of Photovoltaic Systems in Microgrids,20068,Advanced,Engineering,English,8-12,250,False,>150,25.0,501700.0,5017000
+"Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability",12630,Intermediate,Computer Science,English,4-8,99,True,50-100,9.9,125037.0,1250370
+Probability and Statistics I:  A Gentle Introduction to Probability,24130,Intermediate,Data Analysis & Statistics,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Introducción a las ecuaciones diferenciales,9868,Intermediate,Math,Español,4-8,49,True,0-50,4.9,48353.200000000004,483532
+Agile Mindset Introduction,24130,Introductory,Data Analysis & Statistics,English,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Tropical coastal ecosystems,23031,Introductory,Biology & Life Sciences,English,8-12,99,True,50-100,9.9,228006.9,2280069
+Modern China’s Foundations: The Manchus and the Qing,47166,Introductory,History,English,>12,139,True,100-150,13.9,655607.4,6556074
+El método de ciencia de datos,24130,Introductory,Data Analysis & Statistics,Español,4-8,39,True,0-50,3.9000000000000004,94107.00000000001,941070
+AWS Developer: Deploying on AWS,25244,Advanced,Computer Science,English,4-8,149,True,100-150,14.9,376135.60000000003,3761356
+Autonomous Mobile Robots,62362,Intermediate,Computer Science,English,>12,50,True,0-50,5.0,311810.0,3118100
+Gestión por resultados para gobiernos subnacionales,65955,Introductory,Business & Management,Español,8-12,25,True,0-50,2.5,164887.5,1648875
+Introduction to Sociology,10412,Introductory,Social Sciences,English,4-8,139,True,100-150,13.9,144726.80000000002,1447268
+Transformación digital en las empresas,24130,Introductory,Business & Management,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Desafios e oportunidades na economia digital,6913,Introductory,Economics & Finance,Otros,8-12,25,True,0-50,2.5,17282.5,172825
+"Cellular Solids Part 1: Structures, Properties and Engineering Applications",7186,Advanced,Engineering,English,8-12,99,True,50-100,9.9,71141.40000000001,711414
+Introduction to Statistical Methods for Gene Mapping,15419,Advanced,Data Analysis & Statistics,English,1-4,49,True,0-50,4.9,75553.1,755531
+Cómo vivir una vida saludable y activa,8990,Introductory,Social Sciences,Español,4-8,49,True,0-50,4.9,44051.0,440510
+Mandarin Chinese Level 3,8418,Intermediate,Language,English,4-8,149,True,100-150,14.9,125428.2,1254282
+Databases: Advanced Topics in SQL,24130,Introductory,Computer Science,English,1-4,50,True,0-50,5.0,120650.0,1206500
+Data for Effective Policy Making,13797,Introductory,Math,English,8-12,25,True,0-50,2.5,34492.5,344925
+C Programming: Using Linux Tools and Libraries,13912,Intermediate,Computer Science,English,4-8,49,True,0-50,4.9,68168.8,681688
+Lernen objekt-orientierter Programmierung,10657,Introductory,Computer Science,Otros,4-8,49,False,0-50,4.9,52219.3,522193
+Cybersecurity: The CISO's View,21507,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,427989.30000000005,4279893
+Fundamentals of Java EE Development,10129,Intermediate,Computer Science,English,4-8,99,True,50-100,9.9,100277.1,1002771
+"Instructional Design: Digital Media, New Tools and Technology",16419,Intermediate,Education & Teacher Training,English,4-8,299,True,>150,29.900000000000002,490928.10000000003,4909281
+Molecular Biology – Part 3: RNA Processing and Translation,16520,Advanced,Biology & Life Sciences,English,4-8,99,True,50-100,9.9,163548.0,1635480
+Power and Responsibility: Doing Philosophy with Superheroes,8517,Introductory,Art & Culture,English,4-8,49,True,0-50,4.9,41733.3,417333
+Aprendizaje automático y ciencia de datos,13994,Intermediate,Computer Science,Español,4-8,50,True,0-50,5.0,69970.0,699700
+Sustainable Urban Freight Transport: A Global Perspective,7769,Introductory,Engineering,English,4-8,50,True,0-50,5.0,38845.0,388450
+MathTrackX: Statistics,24130,Introductory,Math,English,1-4,79,True,50-100,7.9,190627.0,1906270
+Técnicas Cuantitativas y Cualitativas para la Investigación,29885,Intermediate,Data Analysis & Statistics,Español,4-8,65,True,50-100,6.5,194252.5,1942525
+Strategic Applications of IT Project & Program Management,17914,Introductory,Business & Management,English,4-8,199,True,>150,19.900000000000002,356488.60000000003,3564886
+Advanced Bioconductor,26063,Advanced,Data Analysis & Statistics,English,1-4,149,True,100-150,14.9,388338.7,3883387
+What Every Provider Should Know: Clinical Fundamentals,24130,Introductory,Medicine,English,8-12,50,True,0-50,5.0,120650.0,1206500
+Análisis e interpretación de información económica y financiera,5891,Intermediate,Economics & Finance,Español,4-8,49,True,0-50,4.9,28865.9,288659
+AWS IoT: Developing and Deploying an Internet of Things,8884,Intermediate,Computer Science,English,1-4,99,True,50-100,9.9,87951.6,879516
+Measuring Sustainable Development,24130,Intermediate,Data Analysis & Statistics,English,4-8,25,True,0-50,2.5,60325.0,603250
+Embedded Systems - Shape The World: Multi-Threaded Interfacing,27814,Intermediate,Computer Science,English,4-8,49,True,0-50,4.9,136288.6,1362886
+Hong Kong Cinema through a Global Lens | 全球化下的香港电影,12458,Introductory,Humanities,English,4-8,50,False,0-50,5.0,62290.0,622900
+Image Processing and Analysis for Life Scientists,8621,Intermediate,Data Analysis & Statistics,English,4-8,199,True,>150,19.900000000000002,171557.90000000002,1715579
+La protección del menor,7654,Introductory,Law,Español,4-8,49,True,0-50,4.9,37504.600000000006,375046
+Globalization: Past and Future,10127,Introductory,History,English,1-4,25,True,0-50,2.5,25317.5,253175
+Star Trek: Inspiring Culture and Technology,6521,Introductory,History,English,4-8,40,True,0-50,4.0,26084.0,260840
+Qué funciona en educación: políticas educativas basadas en evidencia,15701,Introductory,Education & Teacher Training,Español,8-12,25,True,0-50,2.5,39252.5,392525
+"Introduction to Cloud Development with HTML5, CSS3, and JavaScript",24130,Introductory,Computer Science,English,1-4,99,True,50-100,9.9,238887.0,2388870
+Tools for Academic Engagement in Public Policy,5035,Introductory,Communication,English,1-4,199,True,>150,19.900000000000002,100196.50000000001,1001965
+Theory of Change for Development,10736,Introductory,Social Sciences,English,4-8,199,True,>150,19.900000000000002,213646.40000000002,2136464
+Monozukuri: Making Things,24130,Introductory,Engineering,English,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Drug Discovery & Medicinal Chemistry,24130,Intermediate,Medicine,English,4-8,99,True,50-100,9.9,238887.0,2388870
+Digital Biomaterials,24130,Introductory,Medicine,English,1-4,149,True,100-150,14.9,359537.0,3595370
+Natural Resources for Sustainable Development,9668,Intermediate,Energy & Earth Sciences,English,8-12,49,True,0-50,4.9,47373.200000000004,473732
+Omnichannel Strategy and Management,15860,Intermediate,Business & Management,English,1-4,99,True,50-100,9.9,157014.0,1570140
+General Overview of Cannabis and the Industry’s Outlook and Professions,5048,Introductory,Environmental Studies,English,1-4,199,True,>150,19.900000000000002,100455.20000000001,1004552
+Amazon SageMaker: Simplifying Machine Learning Application Development,11765,Intermediate,Computer Science,English,1-4,99,True,50-100,9.9,116473.5,1164735
+Formulación y nomenclatura de compuestos químicos,12748,Introductory,Chemistry,Español,4-8,49,True,0-50,4.9,62465.200000000004,624652
+Introducción a la factura electrónica,5829,Intermediate,Economics & Finance,Español,1-4,49,True,0-50,4.9,28562.100000000002,285621
+Demand and Supply Analytics,23585,Intermediate,Business & Management,English,8-12,249,False,>150,24.900000000000002,587266.5,5872665
+Advanced Algorithmics and Graph Theory with Python,13502,Intermediate,Computer Science,English,4-8,49,True,0-50,4.9,66159.8,661598
+Modern Japanese Architecture Part 1: From Meiji Restoration to the Pacific War,24130,Intermediate,Architecture,English,4-8,59,True,50-100,5.9,142367.0,1423670
+Diagramas UML estructurales para la Ingeniería del Software,5820,Introductory,Computer Science,Español,4-8,50,True,0-50,5.0,29100.0,291000
+"A-level Mathematics for Year 12 - Course 2: Calculus, Newton’s Laws and Hypothesis Testing",6232,Intermediate,Math,English,4-8,49,True,0-50,4.9,30536.800000000003,305368
+Fundamentos de Mecánica para Ingeniería,14219,Introductory,Physics,Español,4-8,49,True,0-50,4.9,69673.1,696731
+Leadership and Management for PM Practitioners in IT,21949,Introductory,Business & Management,English,4-8,199,True,>150,19.900000000000002,436785.10000000003,4367851
+Entrepreneurship 103: Show Me The Money,15184,Introductory,Business & Management,English,8-12,300,True,>150,30.0,455520.0,4555200
+Historia de la ética,9383,Introductory,Philosophy & Ethics,Español,4-8,29,True,0-50,2.9000000000000004,27210.700000000004,272107
+Drainage in Agriculture: controlling water and salt levels in the soil,24130,Advanced,Environmental Studies,English,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Radio para internet con Podcast: creación y conceptos básicos,6460,Introductory,Communication,Español,4-8,50,True,0-50,5.0,32300.0,323000
+Introducción a los circuitos eléctricos,11953,Intermediate,Electronics,Español,4-8,49,True,0-50,4.9,58569.700000000004,585697
+AP® Physics 1: Challenging Concepts,12145,Introductory,Physics,English,4-8,49,True,0-50,4.9,59510.50000000001,595105
+Introduction to Java Programming – Part 2,71203,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,704909.7000000001,7049097
+AP® Macroeconomics,29433,Introductory,Economics & Finance,English,>12,49,True,0-50,4.9,144221.7,1442217
+Climate Change Education,12056,Introductory,Education & Teacher Training,English,8-12,25,True,0-50,2.5,30140.0,301400
+"Introducción al griego clásico: verbos, oraciones y filosofía",24130,Introductory,Language,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Applied Deep Learning Capstone Project,8429,Advanced,Data Analysis & Statistics,English,4-8,99,True,50-100,9.9,83447.1,834471
+FinTech Ethics and Risks,10696,Introductory,Economics & Finance,English,4-8,199,True,>150,19.900000000000002,212850.40000000002,2128504
+User Experience (UX) Design: Human Factors and Culture in Design | 设计的人因与文化,23828,Advanced,Engineering,English,4-8,139,True,100-150,13.9,331209.2,3312092
+The Conquest of Space: Space Exploration and Rocket Science,19926,Introductory,Engineering,English,4-8,129,True,100-150,12.9,257045.4,2570454
+Business Strategy and Operations in a Biobased Economy,24130,Advanced,Business & Management,English,4-8,149,True,100-150,14.9,359537.0,3595370
+What Works in Education: Evidence-Based Education Policies,5540,Introductory,Education & Teacher Training,English,8-12,25,True,0-50,2.5,13850.0,138500
+Electric Cars: Business,14199,Intermediate,Business & Management,English,1-4,50,True,0-50,5.0,70995.0,709950
+Thermodynamics of Materials,24130,Intermediate,Engineering,English,>12,150,True,100-150,15.0,361950.0,3619500
+Mechanics: Momentum and Energy,14846,Intermediate,Physics,English,>12,49,True,0-50,4.9,72745.40000000001,727454
+Co-Creating Sustainable Cities,12415,Advanced,Social Sciences,English,4-8,49,True,0-50,4.9,60833.50000000001,608335
+Cómo educar teniendo en cuenta la muerte,24130,Introductory,Education & Teacher Training,Español,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Introduction to Animal Ethics,6608,Introductory,Philosophy & Ethics,English,4-8,49,True,0-50,4.9,32379.2,323792
+Teamwork & Collaboration,24130,Introductory,Communication,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Grant Writing and Crowdfunding for Public Libraries,12853,Introductory,Humanities,English,1-4,49,True,0-50,4.9,62979.700000000004,629797
+Leading Ambitious Teaching and Learning,24273,Advanced,Education & Teacher Training,English,4-8,199,True,>150,19.900000000000002,483032.70000000007,4830327
+Financing Innovative Ventures,24130,Introductory,Business & Management,English,1-4,149,True,100-150,14.9,359537.0,3595370
+"A-level Mathematics for Year 13 - Course 2: General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations",24130,Intermediate,Math,English,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Theories of Media and Technology,24130,Introductory,Art & Culture,English,>12,249,False,>150,24.900000000000002,600837.0,6008370
+Introducción a la Estructura de la Materia,11859,Introductory,Chemistry,Español,1-4,25,True,0-50,2.5,29647.5,296475
+"Batteries, Fuel Cells, and their Role in Modern Society",11865,Introductory,Science,English,4-8,49,True,0-50,4.9,58138.50000000001,581385
+Communication Skills for Dialoguing Across Difference,60943,Introductory,Communication,English,1-4,25,True,0-50,2.5,152357.5,1523575
+Social Media: How Media Got Social,13616,Introductory,Communication,English,1-4,139,True,100-150,13.9,189262.4,1892624
+"Portfolio Management, Governance, & the PMO",17299,Introductory,Business & Management,English,4-8,199,True,>150,19.900000000000002,344250.10000000003,3442501
+edX101: Overview of Creating an edX Course,22327,Introductory,Education & Teacher Training,English,1-4,99,True,50-100,9.9,221037.30000000002,2210373
+"Soy docente, ¡qué miedo! Gestiona eficazmente tus emociones",24130,Introductory,Education & Teacher Training,Español,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Data Analysis for Decision Making,8342,Advanced,Business & Management,English,4-8,214,False,>150,21.400000000000002,178518.80000000002,1785188
+UML Class Diagrams for Software Engineering,33710,Introductory,Computer Science,English,1-4,49,True,0-50,4.9,165179.0,1651790
+Driving Digital Innovation through Experimentation,16904,Advanced,Computer Science,English,4-8,399,False,>150,39.900000000000006,674469.6000000001,6744696
+Compilation Basics for Macroeconomic Statistics,6570,Introductory,Data Analysis & Statistics,English,1-4,25,True,0-50,2.5,16425.0,164250
+Seguridad Vial en América Latina y el Caribe: de la teoría a la acción,20189,Introductory,Engineering,Español,8-12,25,True,0-50,2.5,50472.5,504725
+From Fossil Resources to Biomass: A Chemistry Perspective,5464,Advanced,Energy & Earth Sciences,English,4-8,149,True,100-150,14.9,81413.6,814136
+System Dynamics for Health Sciences,15157,Intermediate,Medicine,English,8-12,139,True,100-150,13.9,210682.30000000002,2106823
+Internet de las cosas (IoT) y Big Data,24130,Intermediate,Data Analysis & Statistics,Español,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Introducción a Ciencias de Datos y Estadística Básica para Negocios,24130,Advanced,Data Analysis & Statistics,Español,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Introduction to Psychological Research Methods,17087,Introductory,Humanities,English,4-8,99,True,50-100,9.9,169161.30000000002,1691613
+Sustainable Packaging in a Circular Economy,6277,Intermediate,Design,English,4-8,50,True,0-50,5.0,31385.0,313850
+Design in Healthcare: Using Patient Journey Mapping,17946,Introductory,Design,English,4-8,129,True,100-150,12.9,231503.4,2315034
+"El manejo de plagas, malezas y enfermedades en los Sistemas de Siembra Directa",24130,Intermediate,Biology & Life Sciences,Español,1-4,99,True,50-100,9.9,238887.0,2388870
+"Electronic, Optical, and Magnetic Properties of Materials",9717,Advanced,Engineering,English,>12,150,False,100-150,15.0,145755.0,1457550
+La España del Quijote,13277,Introductory,History,Español,4-8,19,True,0-50,1.9000000000000001,25226.300000000003,252263
+Risk Management for Projects,22269,Introductory,Business & Management,English,4-8,199,True,>150,19.900000000000002,443153.10000000003,4431531
+Smithsonian’s Objects That Define America,9071,Introductory,Humanities,English,4-8,50,True,0-50,5.0,45355.0,453550
+Creating Modern China: The Republican Period to the Present,43045,Introductory,History,English,>12,139,True,100-150,13.9,598325.5,5983255
+Discover Political Science,6573,Intermediate,Social Sciences,English,8-12,50,False,0-50,5.0,32865.0,328650
+Data Science: Inferential Thinking through Simulations,17505,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,348349.50000000006,3483495
+Programming for Data Science,41268,Introductory,Computer Science,English,8-12,199,True,>150,19.900000000000002,821233.2000000001,8212332
+Public Sector Debt Statistics,24130,Intermediate,Economics & Finance,English,4-8,25,True,0-50,2.5,60325.0,603250
+Sensor Fusion and Non-linear Filtering for Automotive Systems,9709,Advanced,Engineering,English,4-8,299,False,>150,29.900000000000002,290299.10000000003,2902991
+Creación musical con Soundcool: Introducción,24130,Introductory,Music,Español,4-8,30,True,0-50,3.0,72390.0,723900
+First Nights - Berlioz’s Symphonie Fantastique and Program Music in the 19th Century,8222,Introductory,Humanities,English,1-4,49,True,0-50,4.9,40287.8,402878
+The Quantum Internet and Quantum Computers: How Will They Change the World?,15014,Introductory,Science,English,4-8,50,True,0-50,5.0,75070.0,750700
+Research Methods: An Engineering Approach,20444,Introductory,Engineering,English,4-8,169,True,>150,16.900000000000002,345503.60000000003,3455036
+Idealismo filosófico y cosmovisiones: cómo hacer mundos con ideas,15349,Introductory,Philosophy & Ethics,Español,4-8,49,True,0-50,4.9,75210.1,752101
+Rise to Leadership: Become a CEO,16719,Intermediate,Business & Management,English,1-4,199,True,>150,19.900000000000002,332708.10000000003,3327081
+Building a Cybersecurity Toolkit,23275,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,463172.50000000006,4631725
+Marketing your Android apps,24130,Intermediate,Engineering,English,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Embedded Systems Essentials with Arm: Getting Started,24130,Intermediate,Computer Science,English,4-8,149,True,100-150,14.9,359537.0,3595370
+Life with Diabetes,12318,Introductory,Medicine,English,4-8,139,True,100-150,13.9,171220.2,1712202
+Human Reproduction,5517,Intermediate,Biology & Life Sciences,English,4-8,169,True,>150,16.900000000000002,93237.30000000002,932373
+Enabling Technologies for Data Science and Analytics: The Internet of Things,71290,Introductory,Computer Science,English,4-8,99,True,50-100,9.9,705771.0,7057710
+Astrophysics: Exploring Exoplanets,48539,Intermediate,Physics,English,8-12,50,True,0-50,5.0,242695.0,2426950
+Unconventional Reservoir Geomechanics,24130,Introductory,Energy & Earth Sciences,English,8-12,129,True,100-150,12.9,311277.0,3112770
+Strategic Account Management,24130,Introductory,Business & Management,English,4-8,149,True,100-150,14.9,359537.0,3595370
+PyTorch Basics for Machine Learning,24130,Introductory,Data Analysis & Statistics,English,4-8,39,True,0-50,3.9000000000000004,94107.00000000001,941070
+Diseño y Desarrollo de Recursos Multimedia para la Enseñanza Virtual,14266,Intermediate,Humanities,Español,1-4,49,True,0-50,4.9,69903.40000000001,699034
+Introduction to Cloud Foundry and Cloud Native Software Architecture,24444,Introductory,Computer Science,English,>12,169,True,>150,16.900000000000002,413103.60000000003,4131036
+Gestión de compras eficientes para tu empresa,24130,Introductory,Engineering,Español,4-8,25,True,0-50,2.5,60325.0,603250
+Know HBV And HCV,24130,Introductory,Medicine,English,1-4,50,True,0-50,5.0,120650.0,1206500
+The Supreme Court & American Politics,6216,Introductory,Law,English,4-8,29,True,0-50,2.9000000000000004,18026.4,180264
+Sales Enablement & Analytics,24130,Introductory,Business & Management,English,4-8,149,True,100-150,14.9,359537.0,3595370
+Inversión Extranjera como Motor del Desarrollo para América Latina y el Caribe,16423,Intermediate,Business & Management,Español,8-12,25,True,0-50,2.5,41057.5,410575
+Liderazgo en la empresa familiar,10969,Intermediate,Business & Management,Español,4-8,49,True,0-50,4.9,53748.100000000006,537481
+Comparative Political Systems,6934,Introductory,Social Sciences,English,4-8,59,True,50-100,5.9,40910.600000000006,409106
+Introducción al Derecho en la vida cotidiana,24130,Introductory,Law,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Cloud Computing for Enterprises,27241,Intermediate,Computer Science,English,4-8,299,False,>150,29.900000000000002,814505.9,8145059
+Diversity and Social Justice in Social Work,11055,Advanced,Social Sciences,English,4-8,199,True,>150,19.900000000000002,219994.50000000003,2199945
+Public Library Marketing and Public Relations,7525,Introductory,Humanities,English,1-4,49,True,0-50,4.9,36872.5,368725
+"Healthcare Finance, Economics and Risk",8006,Intermediate,Economics & Finance,English,4-8,199,True,>150,19.900000000000002,159319.40000000002,1593194
+Reacciones Químicas y Cálculos Estequiométricos,8907,Introductory,Chemistry,Español,4-8,49,True,0-50,4.9,43644.3,436443
+Seeking Women’s Rights: Colonial Period to the Civil War,5157,Intermediate,History,English,8-12,50,True,0-50,5.0,25785.0,257850
+VideoX: Creating Video for the edX Platform,12159,Introductory,Education & Teacher Training,English,1-4,99,True,50-100,9.9,120374.1,1203741
+Comisión de la Verdad Colombia,24130,Introductory,History,Español,4-8,29,True,0-50,2.9000000000000004,69977.00000000001,699770
+MathTrackX: Probability,24130,Introductory,Math,English,1-4,79,True,50-100,7.9,190627.0,1906270
+Health Informatics for better and safer healthcare,24130,Introductory,Health & Safety,English,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Sign Language Science: Factors Contributing to Natural Change,24130,Introductory,Language,English,1-4,99,True,50-100,9.9,238887.0,2388870
+Accounting System Structure and Information Management,24130,Introductory,Economics & Finance,English,1-4,50,True,0-50,5.0,120650.0,1206500
+Sustainable Development: The Post-Capitalist Order,7031,Introductory,Economics & Finance,English,4-8,49,True,0-50,4.9,34451.9,344519
+"Health Law, Policy, and Advocacy",6358,Intermediate,Law,English,4-8,199,True,>150,19.900000000000002,126524.20000000001,1265242
+Introduction to Haptics,24130,Introductory,Engineering,English,4-8,129,True,100-150,12.9,311277.0,3112770
+Gestión de inventario y portafolio,24130,Introductory,Engineering,Español,4-8,25,True,0-50,2.5,60325.0,603250
+Understanding Nuclear Energy,16015,Intermediate,Engineering,English,4-8,50,True,0-50,5.0,80075.0,800750
+Cómo Convertirse en un Líder Exitoso (Entrenamiento de Liderazgo Inclusivo),11431,Introductory,Business & Management,Español,1-4,50,True,0-50,5.0,57155.0,571550
+Decision Making Under Uncertainty: Introduction to Structured Expert Judgment,24130,Introductory,Business & Management,English,4-8,50,True,0-50,5.0,120650.0,1206500
+AP® Calculus BC,8542,Introductory,Math,English,8-12,49,True,0-50,4.9,41855.8,418558
+Advanced Linear Algebra: Foundations to Frontiers,24130,Advanced,Computer Science,English,>12,49,True,0-50,4.9,118237.00000000001,1182370
+Entrepreneurial Opportunities,27182,Introductory,Business & Management,English,4-8,50,True,0-50,5.0,135910.0,1359100
+Agua en América Latina: Abundancia en medio de la escasez mundial,38581,Introductory,Environmental Studies,Español,8-12,25,True,0-50,2.5,96452.5,964525
+Understanding Political Concepts,7421,Introductory,Social Sciences,English,4-8,59,True,50-100,5.9,43783.9,437839
+How to Code: Complex Data,34190,Introductory,Computer Science,English,4-8,125,True,100-150,12.5,427375.0,4273750
+Hypersonics – from Shock Waves to Scramjets,19043,Advanced,Engineering,English,1-4,99,True,50-100,9.9,188525.7,1885257
+Micro and Nanofabrication (MEMS),16094,Advanced,Engineering,English,4-8,199,True,>150,19.900000000000002,320270.60000000003,3202706
+Scientific Methods and Research,7501,Intermediate,Science,English,4-8,49,True,0-50,4.9,36754.9,367549
+Customer Centric Marketing for Entrepreneurs,14003,Intermediate,Business & Management,English,1-4,149,True,100-150,14.9,208644.7,2086447
+Dog Behavior: Problems and Solutions,16467,Intermediate,Social Sciences,English,1-4,169,True,>150,16.900000000000002,278292.30000000005,2782923
+The Business of Mining,20406,Introductory,Business & Management,English,1-4,139,True,100-150,13.9,283643.4,2836434
+"Social Work Practice in Community Organization, Management and Policy/Evaluation",9522,Advanced,Social Sciences,English,4-8,199,True,>150,19.900000000000002,189487.80000000002,1894878
+The Business of Aging in the Longevity Economy,24130,Introductory,Social Sciences,English,1-4,139,True,100-150,13.9,335407.0,3354070
+Understanding the Australian Health Care System,8343,Introductory,Medicine,English,8-12,59,True,50-100,5.9,49223.700000000004,492237
+Age of Sustainable Development,10019,Intermediate,Social Sciences,English,>12,49,True,0-50,4.9,49093.100000000006,490931
+Internationalization: Creating Digital Content for the World,24130,Advanced,Computer Science,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Multi-Object Tracking for Automotive Systems,8581,Advanced,Engineering,English,8-12,249,False,>150,24.900000000000002,213666.90000000002,2136669
+Economics and Policies in a Biobased Economy,24130,Advanced,Energy & Earth Sciences,English,1-4,149,True,100-150,14.9,359537.0,3595370
+Strategic Leadership in Healthcare,6237,Intermediate,Business & Management,English,4-8,199,True,>150,19.900000000000002,124116.30000000002,1241163
+Terrorism and Counterterrorism: An Introduction,14128,Introductory,Humanities,English,1-4,49,True,0-50,4.9,69227.20000000001,692272
+Exploring Psychology's Core Concepts|走进心理学,5741,Introductory,Social Sciences,English,4-8,139,True,100-150,13.9,79799.90000000001,797999
+Creating Virtual Reality (VR) Apps,22349,Intermediate,Computer Science,English,4-8,99,True,50-100,9.9,221255.1,2212551
+Análisis Multivariable en SPSS,24130,Introductory,Data Analysis & Statistics,Español,4-8,49,True,0-50,4.9,118237.00000000001,1182370
+Steps in Japanese for Beginners2 Part1,24130,Introductory,Language,English,4-8,99,True,50-100,9.9,238887.0,2388870
+"Competencias para buscar, mantener y promocionar en un empleo",24130,Introductory,Social Sciences,Español,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Dynamics and Control,27763,Introductory,Engineering,English,4-8,50,True,0-50,5.0,138815.0,1388150
+Finding Your Cybersecurity Career Path,19283,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,383731.70000000007,3837317
+Introducción a la caligrafía y paleografía en archivos hispanos medievales y modernos,12674,Introductory,Humanities,Español,4-8,29,True,0-50,2.9000000000000004,36754.600000000006,367546
+Mechanics: Rotational Dynamics,13183,Intermediate,Physics,English,8-12,49,True,0-50,4.9,64596.700000000004,645967
+Applying Health Coaching in Patient Care,24130,Introductory,Medicine,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Databases: Modeling and Theory,24130,Introductory,Computer Science,English,1-4,50,True,0-50,5.0,120650.0,1206500
+"Islamic Banking: Principles, Practice and Risk Management",24130,Introductory,Economics & Finance,English,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Liderazgo orientado al florecimiento humano,7911,Introductory,Business & Management,Español,1-4,149,True,100-150,14.9,117873.90000000001,1178739
+Software Construction: Object-Oriented Design,23100,Intermediate,Computer Science,English,4-8,125,True,100-150,12.5,288750.0,2887500
+"Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa",24130,Introductory,Computer Science,English,4-8,199,True,>150,19.900000000000002,480187.00000000006,4801870
+Fondements de l’économie sociale et solidaire,24130,Intermediate,Social Sciences,Otros,8-12,50,False,0-50,5.0,120650.0,1206500
+The Civil War and Reconstruction - 1861 - 1865: A New Birth of Freedom,17941,Introductory,History,English,8-12,50,True,0-50,5.0,89705.0,897050
+Innovation Strategies for Electric Mobility: The StreetScooter Case,24130,Intermediate,Business & Management,English,4-8,99,True,50-100,9.9,238887.0,2388870
+Sustainable Energy,24130,Advanced,Energy & Earth Sciences,English,>12,149,False,100-150,14.9,359537.0,3595370
+Designing and Leading Learning Systems,11895,Advanced,Education & Teacher Training,English,4-8,199,True,>150,19.900000000000002,236710.50000000003,2367105
+How the U.S. Government Works & How to Get Involved,5930,Introductory,Social Sciences,English,4-8,49,True,0-50,4.9,29057.000000000004,290570
+Inspiring and Motivating Arts and Culture Teams,10817,Introductory,Business & Management,English,4-8,49,True,0-50,4.9,53003.3,530033
+Principles of Microeconomics: An Economist Way of Thinking,24130,Intermediate,Economics & Finance,English,4-8,149,True,100-150,14.9,359537.0,3595370
+A System View of Communications: From Signals to Packets (Part 1),34261,Introductory,Computer Science,English,4-8,60,True,50-100,6.0,205566.0,2055660
+"Invasions, Rebellions, and the Fall of Imperial China",41537,Introductory,History,English,>12,139,True,100-150,13.9,577364.3,5773643
+AP® English Literature & Composition – Part 3: Plays,6443,Introductory,Humanities,English,4-8,49,True,0-50,4.9,31570.7,315707
+Cómo implantar grupos de mejora de procesos,28100,Introductory,Business & Management,Español,4-8,150,True,100-150,15.0,421500.0,4215000
+Proteins: Biology's Workforce,25893,Intermediate,Biology & Life Sciences,English,4-8,169,True,>150,16.900000000000002,437591.70000000007,4375917
+Introducción a los ritmos y relojes biológicos,6149,Introductory,Science,Español,1-4,50,True,0-50,5.0,30745.0,307450
+Linear Algebra I: Linear Equations,24130,Intermediate,Math,English,1-4,199,True,>150,19.900000000000002,480187.00000000006,4801870
+"Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications",10205,Advanced,Engineering,English,4-8,169,True,>150,16.900000000000002,172464.50000000003,1724645
+Fundamentos de Electromagnetismo para Ingeniería,15040,Introductory,Physics,Español,4-8,49,True,0-50,4.9,73696.0,736960
+Sustainable Food Systems: A Mediterranean Perspective,6480,Intermediate,Food & Nutrition,English,8-12,49,True,0-50,4.9,31752.000000000004,317520
+Scripting and Programming Foundations,24130,Introductory,Computer Science,English,4-8,299,True,>150,29.900000000000002,721487.0,7214870
+Using GPUs to Scale and Speed-up Deep Learning,9294,Intermediate,Data Analysis & Statistics,English,4-8,99,True,50-100,9.9,92010.6,920106
+StudioX: Creating a Course with edX Studio,20355,Introductory,Education & Teacher Training,English,1-4,99,True,50-100,9.9,201514.5,2015145
+The Power of Data,24130,Introductory,Data Analysis & Statistics,English,1-4,49,True,0-50,4.9,118237.00000000001,1182370
+Introducción a las ondas gravitacionales,8657,Introductory,Science,Español,1-4,50,True,0-50,5.0,43285.0,432850
+Drones and Autonomous Systems 2: Applications in Emergency Management,24130,Intermediate,Science,English,4-8,149,True,100-150,14.9,359537.0,3595370
+MathTrackX: Differential Calculus,24130,Introductory,Math,English,1-4,79,True,50-100,7.9,190627.0,1906270
+Global China: From the Mongols to the Ming,41902,Introductory,History,English,>12,139,True,100-150,13.9,582437.8,5824378
+Leaders in Citizen Security and Justice Management for the Caribbean,24130,Intermediate,Social Sciences,English,8-12,25,True,0-50,2.5,60325.0,603250
+Pattern Studying and Making | 图案审美与创作,24130,Introductory,Art & Culture,Otros,8-12,139,True,100-150,13.9,335407.0,3354070
+Computational Neuroscience: Neuronal Dynamics of Cognition,11246,Advanced,Biology & Life Sciences,English,4-8,139,True,100-150,13.9,156319.4,1563194
+Cities and the Challenge of Sustainable Development,8775,Introductory,Environmental Studies,English,1-4,25,True,0-50,2.5,21937.5,219375
+MathTrackX: Special Functions,24130,Introductory,Math,English,1-4,79,True,50-100,7.9,190627.0,1906270
