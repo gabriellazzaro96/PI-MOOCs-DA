@@ -16,7 +16,8 @@
 - :snake: [Python](https://docs.python.org/): Lenguaje de programación utilizado en el proyecto.
 - :panda_face: [Pandas](https://pandas.pydata.org/): Biblioteca de manipulación y análisis de datos.
 - :1234: [NumPy](https://numpy.org/doc/): Biblioteca para cálculos numéricos en Python.
-- ⚙️[idata_profiling](https://github.com/ydataai/ydata-profiling): Librería de Python utilizada para realizar el análisis de datos.
+- ⚙️[ydata_profiling](https://github.com/ydataai/ydata-profiling): Librería de Python utilizada para realizar el análisis de datos.
+- 📊[seaborn](https://seaborn.pydata.org/): Librería de Python utilizada para la visualización de datos.
 - 📈 [PowerBI](https://powerbi.microsoft.com/en-us/): Servicio de análisis de datos orientado a proporcionar visualizaciones interactivas.
 
 
